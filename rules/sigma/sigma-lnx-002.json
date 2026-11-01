@@ -1,0 +1,21 @@
+{
+    "id": "sigma-lnx-002",
+    "title": "Interactive Reverse Shell Execution via Netcat or Socat",
+    "status": "production",
+    "level": "critical",
+    "tags": [
+        "attack.execution",
+        "attack.t1059.004"
+    ],
+    "detection": {
+        "selection": {
+            "process.command_line|contains": [
+                "nc -e",
+                "ncat --ssl",
+                "socat TCP",
+                "mkfifo /tmp/f"
+            ]
+        },
+        "condition": "selection"
+    }
+}

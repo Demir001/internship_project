@@ -1,0 +1,21 @@
+{
+    "id": "sigma-lnx-003",
+    "title": "SUID / SGID Root Privilege Escalation Probe",
+    "status": "production",
+    "level": "medium",
+    "tags": [
+        "attack.discovery",
+        "attack.t1083"
+    ],
+    "detection": {
+        "selection": {
+            "process.command_line|contains": [
+                "-perm -4000",
+                "-perm -u=s",
+                "chmod 4755",
+                "chmod u+s"
+            ]
+        },
+        "condition": "selection"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "sigma-lnx-004",
+    "title": "Defense Evasion via Environment Variable or Base64 Pipe",
+    "status": "production",
+    "level": "high",
+    "tags": [
+        "attack.defense_evasion",
+        "attack.t1027"
+    ],
+    "detection": {
+        "selection": {
+            "process.command_line|contains": [
+                "base64 -d | bash",
+                "base64 -d | sh",
+                "$IFS",
+                "rev <<<"
+            ]
+        },
+        "condition": "selection"
+    }
+}

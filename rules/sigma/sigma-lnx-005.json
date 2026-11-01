@@ -1,0 +1,21 @@
+{
+    "id": "sigma-lnx-005",
+    "title": "Persistence via Cron Table Hijacking",
+    "status": "production",
+    "level": "high",
+    "tags": [
+        "attack.persistence",
+        "attack.t1053.003"
+    ],
+    "detection": {
+        "selection": {
+            "process.command_line|contains": [
+                "/etc/crontab",
+                "/etc/cron.d",
+                "crontab -e",
+                "crontab -l"
+            ]
+        },
+        "condition": "selection"
+    }
+}
