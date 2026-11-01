@@ -1,0 +1,200 @@
+uname -a
+uname -r
+uname -m
+uname -v
+arch
+uptime -p
+uptime -s
+hostnamectl status
+timedatectl status
+localectl status
+cat /etc/os-release
+cat /etc/issue
+cat /proc/cpuinfo
+cat /proc/meminfo
+cat /proc/version
+cat /proc/loadavg
+cat /proc/swaps
+cat /proc/partitions
+lscpu
+lscpu -e
+lsblk
+lsblk -f
+lsblk -m
+lspci -tv
+lsusb -t
+free -h
+free -m
+df -hT
+df -i
+findmnt
+lsmod
+locale -a
+ulimit -a
+ipcs -l
+ls -la /home/user
+ls -lh /var/log
+ls -R -m 2 /tmp
+stat ~/.bashrc
+pwd
+head -n 20 /etc/hosts
+tail -n 30 /etc/resolv.conf
+cat /etc/environment
+cat /etc/services
+cat /etc/protocols
+wc -l /etc/passwd
+sha256sum ~/.bashrc
+md5sum /etc/timezone
+file /bin/ls
+file /usr/bin/python3
+which python3
+which git
+which docker
+type -a ls
+grep -rn "export" ~/.bashrc
+grep -i "error" /var/log/syslog
+find . -name "*.py" -type f
+find ~/ -name "*.log"
+find . -maxdepth 2 -type d
+du -sh ~/Documents
+du -h --max-depth=1 ~
+sort -u /etc/group
+cut -d: -f1 /etc/passwd
+awk -F: '{print $1}' /etc/passwd
+sed -n '1,10p' /etc/passwd
+diff ~/.bashrc ~/.profile
+tar -tvf /tmp/backup.tar.gz
+gzip -l /tmp/archive.gz
+zipinfo /tmp/bundle.zip
+unzip -l /tmp/bundle.zip
+ip addr show
+ip -4 addr show
+ip route show
+ip neigh show
+ip -s link show
+ss -tlpn
+ss -tulpn
+ss -s
+netstat -tuln
+netstat -s
+lsof -i :8080
+ping -c 3 8.8.8.8
+ping -c 3 1.1.1.1
+ping -c 3 google.com
+ping -c 3 github.com
+traceroute -n 8.8.8.8
+mtr -c 5 -r 1.1.1.1
+dig +short A google.com
+dig +short MX github.com
+nslookup google.com 8.8.8.8
+host -t A debian.org
+resolvectl status
+curl -I https://www.google.com
+curl -s https://api.github.com
+curl -v http://httpbin.org/get
+wget --spider https://ubuntu.com
+wget -q -O- https://api.ipify.org
+nc -z -v 127.0.0.1 22
+nc -z -v 127.0.0.1 80
+whois google.com
+ps aux
+ps -ef --forest
+ps -u user
+pstree -p
+top -b -n 1
+htop --version
+pgrep -l python
+pidof sshd
+w -s
+who
+last -n 10
+lastlog -u user
+id
+id -u
+id -gn
+groups
+env
+printenv PATH
+echo $SHELL
+echo $USER
+echo $HOME
+history 20
+jobs -l
+git status
+git log -n 5 --oneline
+git branch -a
+git tag -l
+git diff HEAD~1
+git remote -v
+git config --list
+python3 --version
+pip list
+pip show requests
+pip check
+python3 -m unittest discover
+pytest --version
+node --version
+npm --version
+npm list --depth=0
+npm run build
+yarn --version
+cargo --version
+cargo check
+cargo test
+go version
+go env
+go test ./...
+make --version
+cmake --version
+gcc --version
+g++ --version
+clang --version
+rustc --version
+mvn -v
+gradle -v
+docker --version
+docker compose version
+kubectl version --client
+helm version
+terraform version
+ansible --version
+jq --version
+redis-cli ping
+redis-cli info server
+redis-cli info memory
+redis-cli dbsize
+psql --version
+mysql --version
+sqlite3 --version
+sqlite3 test.db ".tables"
+sqlite3 test.db "SELECT 1;"
+mongosh --version
+systemctl status nginx --no-pager
+systemctl status ssh --no-pager
+systemctl is-active docker
+systemctl is-enabled cron
+systemctl list-units --type=service --state=running
+journalctl -n 20 --no-pager
+journalctl -u cron -n 15 --no-pager
+systemd-analyze time
+systemd-analyze blame
+mkdir -p ~/projects/test_app
+touch ~/projects/test_app/main.py
+echo "print('hello')" > ~/projects/test_app/main.py
+python3 ~/projects/test_app/main.py
+cat ~/projects/test_app/main.py
+cp ~/projects/test_app/main.py ~/projects/test_app/main_backup.py
+mv ~/projects/test_app/main_backup.py ~/projects/test_app/app.py
+rm -f ~/projects/test_app/app.py
+tar -czf ~/projects_backup.tar.gz ~/projects/
+tar -tzf ~/projects_backup.tar.gz
+rm -f ~/projects_backup.tar.gz
+echo "export TEST_VAR=1" >> ~/.bashrc
+echo "Test developer log line #1" >> ~/app_1.log
+echo "Test developer log line #2" >> ~/app_2.log
+echo "Test developer log line #3" >> ~/app_3.log
+echo "Test developer log line #4" >> ~/app_4.log
+echo "Test developer log line #5" >> ~/app_5.log
+echo "Test developer log line #6" >> ~/app_6.log
+echo "Test developer log line #7" >> ~/app_7.log
+echo "Test developer log line #8" >> ~/app_8.log
