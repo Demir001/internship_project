@@ -202,7 +202,7 @@ Built directly into the platform (`modules/virtual_mesh_simulator.py`), this too
 ## 📁 Project Directory Structure
 
 ```text
-staj4/
+/
 ├── config.py                         # Centralized configuration (thresholds, paths, SMTP, ports)
 ├── main.py                           # Core daemon orchestrator (spawns 24 micro-engines)
 ├── main_warning_only.py              # Non-blocking simulation / warning-only mode daemon
