@@ -1,0 +1,57 @@
+{
+  "reader_user": [
+    "READ"
+  ],
+  "editor_user": [
+    "READ",
+    "WRITE"
+  ],
+  "dev_user": [
+    "EXECUTE",
+    "NETWORK",
+    "READ",
+    "WRITE"
+  ],
+  "admin_user": [
+    "ADMIN",
+    "EXECUTE",
+    "NETWORK",
+    "READ",
+    "WRITE"
+  ],
+  "restricted_intern": [
+    "READ"
+  ],
+  "devops": [
+    "ADMIN",
+    "EXECUTE",
+    "NETWORK",
+    "READ",
+    "WRITE"
+  ],
+  "sarah_auditor": [
+    "READ"
+  ],
+  "alex_intern": [
+    "EXECUTE",
+    "READ"
+  ],
+  "marcus_devops": [
+    "ADMIN",
+    "EXECUTE",
+    "NETWORK",
+    "READ",
+    "WRITE"
+  ],
+  "www-data": [
+    "EXECUTE",
+    "READ",
+    "WRITE"
+  ],
+  "kemal_dev": [
+    "EXECUTE",
+    "NETWORK",
+    "READ",
+    "WRITE"
+  ]
+}

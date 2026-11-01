@@ -1,0 +1,21 @@
+--- ENTERPRISE SIEM & PBAC USER ACTIONS LOG INITIALIZED ---
+
+=====================================================================================
+[2026-08-26 14:21:46] [USER ACTION AUDIT] [USER: restricted_intern] [IP: 192.168.1.55] [TTY: pts/3]
+  ├─ ACTION TYPE    : FILE_READ_INSPECTION
+  ├─ TARGET SERVICE : N/A
+  ├─ AFFECTED FILE  : /etc/hosts
+  ├─ EXECUTED CMD   : cat /etc/hosts
+  ├─ SECURITY STATUS: [SAFE OPERATION] (INFO)
+  └─ DESCRIPTION    : Viewed contents of file '/etc/hosts' using 'cat'.
+=====================================================================================
+
+=====================================================================================
+[2026-08-26 15:42:25] [USER ACTION AUDIT] [USER: restricted_intern] [IP: 192.168.1.55] [TTY: pts/3]
+  ├─ ACTION TYPE    : FILE_READ_INSPECTION
+  ├─ TARGET SERVICE : N/A
+  ├─ AFFECTED FILE  : /etc/hosts
+  ├─ EXECUTED CMD   : cat /etc/hosts
+  ├─ SECURITY STATUS: [SAFE OPERATION] (INFO)
+  └─ DESCRIPTION    : Viewed contents of file '/etc/hosts' using 'cat'.
+=====================================================================================

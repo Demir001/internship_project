@@ -1,0 +1,22 @@
+{
+  "root": "ADMIN",
+  "admin": "ADMIN",
+  "devops": "DEVOPS",
+  "user": "OPERATOR",
+  "auditor": "AUDITOR",
+  "lead_admin": "ADMIN",
+  "devops_lead": "DEVOPS",
+  "dba_lead": "OPERATOR",
+  "support": "AUDITOR",
+  "intern": "RESTRICTED",
+  "charlie": "AUDITOR",
+  "alice": "ADMIN",
+  "ahmet": "DEVOPS",
+  "perm_test_maint_devops": "DEVOPS",
+  "perm_test_maint_intern": "RESTRICTED",
+  "sarah_auditor": "AUDITOR",
+  "alex_intern": "RESTRICTED",
+  "marcus_devops": "DEVOPS",
+  "www-data": "OPERATOR",
+  "kemal_dev": "OPERATOR"
+}

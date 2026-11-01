@@ -1,0 +1,57 @@
+{
+    "ips": {
+        "185.220.101.5": {
+            "threat": "Tor Exit Node / Malicious Proxy",
+            "severity": "HIGH",
+            "actor": "Anonymous Tor Network"
+        },
+        "185.220.101.7": {
+            "threat": "Tor Exit Node",
+            "severity": "HIGH",
+            "actor": "Anonymous Tor Network"
+        },
+        "194.26.29.42": {
+            "threat": "Cobalt Strike C2 Beacon Server",
+            "severity": "CRITICAL",
+            "actor": "APT29 / Russian Nexus"
+        },
+        "45.145.67.12": {
+            "threat": "Mirai / Mozi Botnet Scanner",
+            "severity": "HIGH",
+            "actor": "Mirai Botnet"
+        },
+        "91.240.118.168": {
+            "threat": "SSH Brute-Force Bot",
+            "severity": "HIGH",
+            "actor": "MassCAN Cluster"
+        }
+    },
+    "domains": {
+        "c2-beacon.darknet.onion": {
+            "threat": "C2 Command and Control",
+            "severity": "CRITICAL"
+        },
+        "malware-staging.xyz": {
+            "threat": "Malware Dropper Hosting",
+            "severity": "CRITICAL"
+        },
+        "cryptominer-pool.org": {
+            "threat": "Unauthorized XMRig Pool",
+            "severity": "HIGH"
+        },
+        "update-system-apt.com": {
+            "threat": "Typosquatting Phishing",
+            "severity": "HIGH"
+        }
+    },
+    "hashes": {
+        "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855": {
+            "threat": "Empty Payload Probe",
+            "severity": "LOW"
+        },
+        "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8": {
+            "threat": "Known Linux Backdoor ELF",
+            "severity": "CRITICAL"
+        }
+    }
+}

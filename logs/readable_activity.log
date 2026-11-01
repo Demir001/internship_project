@@ -1,0 +1,1706 @@
+--- ENTERPRISE SIEM & EDR READABLE ACTIVITY LOG INITIALIZED ---
+[2026-08-26 14:20:02] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 14:20:02] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 14:20:02] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 14:20:07] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 14:20:07] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 14:20:07] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 14:20:39] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 14:20:39] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 14:20:39] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 14:21:01] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 14:21:01] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 14:21:01] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 14:21:18] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 14:21:18] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 14:21:18] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 14:21:32] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 14:21:32] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 14:21:32] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 14:21:44] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 14:21:44] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 14:21:44] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 14:21:44] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 14:21:45] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 14:21:45] [CRITICAL] [MALICIOUS OPERATION] [SIEM] [LATERAL_HOPPING]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Host 192.168.1.50 performing rapid administrative hopping (SSH) across 3 internal servers.
+  Details: Host 192.168.1.50 performing rapid administrative hopping (SSH) across 3 internal servers.
+---------------------------------------------------------------------------
+[2026-08-26 14:21:45] [CRITICAL] [MALICIOUS OPERATION] [SIEM] [LATERAL_HOPPING]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Host 192.168.1.50 performing rapid administrative hopping (SSH) across 4 internal servers.
+  Details: Host 192.168.1.50 performing rapid administrative hopping (SSH) across 4 internal servers.
+---------------------------------------------------------------------------
+[2026-08-26 14:21:45] [WARNING ] [SUSPICIOUS / WARNING] [SIEM] [LATERAL_FANOUT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Internal host 192.168.1.50 connected to 5 distinct internal targets within 120s (Lateral Scan).
+  Details: Internal host 192.168.1.50 connected to 5 distinct internal targets within 120s (Lateral Scan).
+---------------------------------------------------------------------------
+[2026-08-26 14:21:45] [WARNING ] [SUSPICIOUS / WARNING] [SIEM] [LATERAL_FANOUT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Internal host 192.168.1.50 connected to 6 distinct internal targets within 120s (Lateral Scan).
+  Details: Internal host 192.168.1.50 connected to 6 distinct internal targets within 120s (Lateral Scan).
+---------------------------------------------------------------------------
+[2026-08-26 14:21:45] [CRITICAL] [MALICIOUS OPERATION] [SIEM] [CORRELATION_ALERT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Multi-Stage Attack Chain: Brute-Force Followed by Successful Compromise | Details: 4 failed login attempts followed by successful authentication.
+  Details: Multi-Stage Attack Chain: Brute-Force Followed by Successful Compromise | Details: 4 failed login attempts followed by successful authentication.
+---------------------------------------------------------------------------
+[2026-08-26 14:21:45] [CRITICAL] [MALICIOUS OPERATION] [SIEM] [IMPOSSIBLE_TRAVEL]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Impossible Travel: User alice logged in from Sydney, Australia only 15.0 minutes after Frankfurt, Germany (16482.9 km at 65931.5 km/h).
+  Details: Impossible Travel: User alice logged in from Sydney, Australia only 15.0 minutes after Frankfurt, Germany (16482.9 km at 65931.5 km/h).
+---------------------------------------------------------------------------
+[2026-08-26 14:21:45] [WARNING ] [SUSPICIOUS / WARNING] [SIEM] [DORMANT_AWAKEN]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Dormant Account Alert: Account 'bob' awakened after 45.0 days of zero activity.
+  Details: Dormant Account Alert: Account 'bob' awakened after 45.0 days of zero activity.
+---------------------------------------------------------------------------
+[2026-08-26 14:21:45] [CRITICAL] [MALICIOUS OPERATION] [SIEM] [HIGH_RISK_ENTITY]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: User 'attacker' reached CRITICAL Risk Score: 90.0/100 (Trigger: SUID PrivEsc Attempt)
+  Details: User 'attacker' reached CRITICAL Risk Score: 90.0/100 (Trigger: SUID PrivEsc Attempt)
+---------------------------------------------------------------------------
+[2026-08-26 14:21:45] [WARNING ] [SUSPICIOUS / WARNING] [BAN_MANAGER] [CORPORATE_EGRESS_SESSION_ISOLATED]
+  Target: 198.51.100.1 | MITRE: N/A | AI Verdict: N/A
+  Summary: Security violation from user behind corporate gateway 198.51.100.1. Session terminated without firewall drop.
+  Details: Security violation from user behind corporate gateway 198.51.100.1. Session terminated without firewall drop.
+---------------------------------------------------------------------------
+[2026-08-26 14:21:45] [CRITICAL] [MALICIOUS OPERATION] [BAN_MANAGER] [EXTERNAL_IP_BAN]
+  Target: 85.90.10.77 | MITRE: N/A | AI Verdict: N/A
+  Summary: EXTERNAL WAN IP 85.90.10.77 dropped on firewall due to security violations.
+  Details: Target 85.90.10.77 (EXTERNAL) restricted for 1440 mins. Reason: Zero-Tolerance SSH Decoy Trap on Port 22 (Real SSH Port: 2222)
+---------------------------------------------------------------------------
+[2026-08-26 14:21:45] [INFO    ] [SAFE OPERATION] [BAN_MANAGER] [BAN_REMOVED]
+  Target: 85.90.10.77 | MITRE: N/A | AI Verdict: N/A
+  Summary: Network: [EXTERNAL] | Target: 85.90.10.77 restriction lifted! Reason: Manual Admin Master Flush
+  Details: Network: [EXTERNAL] | Target: 85.90.10.77 restriction lifted! Reason: Manual Admin Master Flush
+---------------------------------------------------------------------------
+[2026-08-26 14:21:45] [NOTICE  ] [SAFE OPERATION] [HOST_CONTAINMENT] [HOST_CONTAINMENT_RESTORED]
+  Target: LOCAL_SYSTEM | MITRE: N/A | AI Verdict: N/A
+  Summary: HOST NETWORK CONTAINMENT RESTORED! Normal enterprise network routing active. Reason: 'Admin Remediation Complete'.
+  Details: HOST NETWORK CONTAINMENT RESTORED! Normal enterprise network routing active. Reason: 'Admin Remediation Complete'.
+---------------------------------------------------------------------------
+[2026-08-26 14:21:45] [CRITICAL] [MALICIOUS OPERATION] [HOST_CONTAINMENT] [HOST_CONTAINMENT_ACTIVATED]
+  Target: LOCAL_SYSTEM | MITRE: N/A | AI Verdict: N/A
+  Summary: EMERGENCY HOST CONTAINMENT ACTIVATED! Host isolated from all external/internal networks. Reason: 'Active Ransomware Lateral Movement Detected'. Preserved Management Lifelines: ['10
+  Details: EMERGENCY HOST CONTAINMENT ACTIVATED! Host isolated from all external/internal networks. Reason: 'Active Ransomware Lateral Movement Detected'. Preserved Management Lifelines: ['10.0.0.100', '10.0.5.99', '127.0.0.1', '192.168.1.100', '::1', 'localhost']
+---------------------------------------------------------------------------
+[2026-08-26 14:21:45] [NOTICE  ] [SAFE OPERATION] [HOST_CONTAINMENT] [HOST_CONTAINMENT_RESTORED]
+  Target: LOCAL_SYSTEM | MITRE: N/A | AI Verdict: N/A
+  Summary: HOST NETWORK CONTAINMENT RESTORED! Normal enterprise network routing active. Reason: 'Admin Remediation Complete'.
+  Details: HOST NETWORK CONTAINMENT RESTORED! Normal enterprise network routing active. Reason: 'Admin Remediation Complete'.
+---------------------------------------------------------------------------
+[2026-08-26 14:21:45] [NOTICE  ] [SAFE OPERATION] [HOST_CONTAINMENT] [HOST_CONTAINMENT_RESTORED]
+  Target: LOCAL_SYSTEM | MITRE: N/A | AI Verdict: N/A
+  Summary: HOST NETWORK CONTAINMENT RESTORED! Normal enterprise network routing active. Reason: 'Admin Remediation Complete'.
+  Details: HOST NETWORK CONTAINMENT RESTORED! Normal enterprise network routing active. Reason: 'Admin Remediation Complete'.
+---------------------------------------------------------------------------
+[2026-08-26 14:21:45] [CRITICAL] [MALICIOUS OPERATION] [HOST_CONTAINMENT] [HOST_CONTAINMENT_ACTIVATED]
+  Target: LOCAL_SYSTEM | MITRE: N/A | AI Verdict: N/A
+  Summary: EMERGENCY HOST CONTAINMENT ACTIVATED! Host isolated from all external/internal networks. Reason: 'SOC Incident Triage'. Preserved Management Lifelines: ['10.0.0.100', '127.0.0.1', 
+  Details: EMERGENCY HOST CONTAINMENT ACTIVATED! Host isolated from all external/internal networks. Reason: 'SOC Incident Triage'. Preserved Management Lifelines: ['10.0.0.100', '127.0.0.1', '192.168.1.100', '::1', 'localhost']
+---------------------------------------------------------------------------
+[2026-08-26 14:21:45] [NOTICE  ] [SAFE OPERATION] [HOST_CONTAINMENT] [HOST_CONTAINMENT_RESTORED]
+  Target: LOCAL_SYSTEM | MITRE: N/A | AI Verdict: N/A
+  Summary: HOST NETWORK CONTAINMENT RESTORED! Normal enterprise network routing active. Reason: 'Admin Remediation Complete'.
+  Details: HOST NETWORK CONTAINMENT RESTORED! Normal enterprise network routing active. Reason: 'Admin Remediation Complete'.
+---------------------------------------------------------------------------
+[2026-08-26 14:21:45] [NOTICE  ] [SAFE OPERATION] [HOST_CONTAINMENT] [HOST_CONTAINMENT_RESTORED]
+  Target: LOCAL_SYSTEM | MITRE: N/A | AI Verdict: N/A
+  Summary: HOST NETWORK CONTAINMENT RESTORED! Normal enterprise network routing active. Reason: 'Admin Remediation Complete'.
+  Details: HOST NETWORK CONTAINMENT RESTORED! Normal enterprise network routing active. Reason: 'Admin Remediation Complete'.
+---------------------------------------------------------------------------
+[2026-08-26 14:21:45] [CRITICAL] [MALICIOUS OPERATION] [HOST_CONTAINMENT] [HOST_CONTAINMENT_ACTIVATED]
+  Target: LOCAL_SYSTEM | MITRE: N/A | AI Verdict: N/A
+  Summary: EMERGENCY HOST CONTAINMENT ACTIVATED! Host isolated from all external/internal networks. Reason: 'Test Isolation'. Preserved Management Lifelines: ['10.0.0.100', '127.0.0.1', '192.
+  Details: EMERGENCY HOST CONTAINMENT ACTIVATED! Host isolated from all external/internal networks. Reason: 'Test Isolation'. Preserved Management Lifelines: ['10.0.0.100', '127.0.0.1', '192.168.1.100', '::1', 'localhost']
+---------------------------------------------------------------------------
+[2026-08-26 14:21:45] [NOTICE  ] [SAFE OPERATION] [HOST_CONTAINMENT] [HOST_CONTAINMENT_RESTORED]
+  Target: LOCAL_SYSTEM | MITRE: N/A | AI Verdict: N/A
+  Summary: HOST NETWORK CONTAINMENT RESTORED! Normal enterprise network routing active. Reason: 'Incident Resolved by SecOps'.
+  Details: HOST NETWORK CONTAINMENT RESTORED! Normal enterprise network routing active. Reason: 'Incident Resolved by SecOps'.
+---------------------------------------------------------------------------
+[2026-08-26 14:21:45] [NOTICE  ] [SAFE OPERATION] [HOST_CONTAINMENT] [HOST_CONTAINMENT_RESTORED]
+  Target: LOCAL_SYSTEM | MITRE: N/A | AI Verdict: N/A
+  Summary: HOST NETWORK CONTAINMENT RESTORED! Normal enterprise network routing active. Reason: 'Admin Remediation Complete'.
+  Details: HOST NETWORK CONTAINMENT RESTORED! Normal enterprise network routing active. Reason: 'Admin Remediation Complete'.
+---------------------------------------------------------------------------
+[2026-08-26 14:21:46] [WARNING ] [SUSPICIOUS / WARNING] [MAINTENANCE_DEFENSE] [MAINTENANCE_VIOLATION]
+  Target: 192.168.1.105 | MITRE: N/A | AI Verdict: N/A
+  Summary: MAINTENANCE ACCESS DENIED: User 'guest' attempted 'uptime' from 192.168.1.105 on pts/1. Active Window: 'Database Migration'.
+  Details: MAINTENANCE ACCESS DENIED: User 'guest' attempted 'uptime' from 192.168.1.105 on pts/1. Active Window: 'Database Migration'.
+---------------------------------------------------------------------------
+[2026-08-26 14:21:46] [NOTICE  ] [SAFE OPERATION] [HONEYPOT_TRAP] [PORT_22_PROBE_TOLERATED]
+  Target: 198.51.100.77 | MITRE: N/A | AI Verdict: N/A
+  Summary: Port 22 connect attempt 1/2 from 198.51.100.77. Informative banner sent (No ban applied yet).
+  Details: Port 22 connect attempt 1/2 from 198.51.100.77. Informative banner sent (No ban applied yet).
+---------------------------------------------------------------------------
+[2026-08-26 14:21:46] [NOTICE  ] [SAFE OPERATION] [HONEYPOT_TRAP] [PORT_22_PROBE_TOLERATED]
+  Target: 198.51.100.77 | MITRE: N/A | AI Verdict: N/A
+  Summary: Port 22 connect attempt 2/2 from 198.51.100.77. Informative banner sent (No ban applied yet).
+  Details: Port 22 connect attempt 2/2 from 198.51.100.77. Informative banner sent (No ban applied yet).
+---------------------------------------------------------------------------
+[2026-08-26 14:21:46] [CRITICAL] [MALICIOUS OPERATION] [HONEYPOT_TRAP] [PORT_22_HONEYPOT_INTERCEPT]
+  Target: 198.51.100.77 | MITRE: N/A | AI Verdict: N/A
+  Summary: Malicious scanner 198.51.100.77 trapped on decoy port 22. 24-Hour ban applied.
+  Details: Malicious scanner 198.51.100.77 trapped on decoy port 22. 24-Hour ban applied.
+---------------------------------------------------------------------------
+[2026-08-26 14:21:46] [CRITICAL] [MALICIOUS OPERATION] [BAN_MANAGER] [INTERNAL_IP_BAN]
+  Target: 198.51.100.77 | MITRE: N/A | AI Verdict: N/A
+  Summary: INTERNAL LAN IP 198.51.100.77 SSH isolated due to security violations.
+  Details: Target 198.51.100.77 (INTERNAL) restricted for 1440 mins. Reason: Zero-Tolerance SSH Decoy Trap on Port 22 (Real SSH Port: 2222)
+---------------------------------------------------------------------------
+[2026-08-26 14:21:46] [INFO    ] [SAFE OPERATION] [BAN_MANAGER] [BAN_REMOVED]
+  Target: 198.51.100.77 | MITRE: N/A | AI Verdict: N/A
+  Summary: Network: [INTERNAL] | Target: 198.51.100.77 restriction lifted! Reason: Manual Admin Master Flush
+  Details: Network: [INTERNAL] | Target: 198.51.100.77 restriction lifted! Reason: Manual Admin Master Flush
+---------------------------------------------------------------------------
+[2026-08-26 14:21:46] [NOTICE  ] [SAFE OPERATION] [SESSION_TRACKER] [USER_LOGIN]
+  Target: 192.168.1.55 | MITRE: N/A | AI Verdict: N/A
+  Summary: User 'restricted_intern' logged in successfully. (IP: 192.168.1.55 | Terminal: pts/3)
+  Details: User 'restricted_intern' logged in successfully. (IP: 192.168.1.55 | Terminal: pts/3)
+---------------------------------------------------------------------------
+[2026-08-26 14:21:46] [WARNING ] [SUSPICIOUS / WARNING] [ACCESS_CONTROL] [PERMISSION_DENIED]
+  Target: 192.168.1.55 | MITRE: N/A | AI Verdict: N/A
+  Summary: PERMISSION DENIED: User 'restricted_intern' lacks permission(s) [WRITE] for 'rm -rf /tmp/data' (Required: WRITE).
+  Details: PERMISSION DENIED: User 'restricted_intern' lacks permission(s) [WRITE] for 'rm -rf /tmp/data' (Required: WRITE).
+---------------------------------------------------------------------------
+[2026-08-26 14:21:47] [CRITICAL] [MALICIOUS OPERATION] [BAN_MANAGER] [EXTERNAL_IP_BAN]
+  Target: 85.90.10.0/24 | MITRE: N/A | AI Verdict: N/A
+  Summary: EXTERNAL WAN IP 85.90.10.0/24 dropped on firewall due to security violations.
+  Details: Target 85.90.10.0/24 (EXTERNAL) restricted for 120 mins. Reason: Test Public Botnet Subnet
+---------------------------------------------------------------------------
+[2026-08-26 14:21:47] [INFO    ] [SAFE OPERATION] [BAN_MANAGER] [BAN_REMOVED]
+  Target: 85.90.10.0/24 | MITRE: N/A | AI Verdict: N/A
+  Summary: Network: [EXTERNAL] | Target: 85.90.10.0/24 restriction lifted! Reason: Manual Admin Master Flush
+  Details: Network: [EXTERNAL] | Target: 85.90.10.0/24 restriction lifted! Reason: Manual Admin Master Flush
+---------------------------------------------------------------------------
+[2026-08-26 14:21:53] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 14:21:53] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 14:21:53] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 15:18:45] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 15:18:45] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 15:18:45] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 15:18:55] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 15:18:55] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 15:18:55] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 15:42:24] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 15:42:24] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 15:42:24] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 15:42:24] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 15:42:24] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 15:42:24] [CRITICAL] [MALICIOUS OPERATION] [SIEM] [LATERAL_HOPPING]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Host 192.168.1.50 performing rapid administrative hopping (SSH) across 3 internal servers.
+  Details: Host 192.168.1.50 performing rapid administrative hopping (SSH) across 3 internal servers.
+---------------------------------------------------------------------------
+[2026-08-26 15:42:24] [CRITICAL] [MALICIOUS OPERATION] [SIEM] [LATERAL_HOPPING]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Host 192.168.1.50 performing rapid administrative hopping (SSH) across 4 internal servers.
+  Details: Host 192.168.1.50 performing rapid administrative hopping (SSH) across 4 internal servers.
+---------------------------------------------------------------------------
+[2026-08-26 15:42:24] [WARNING ] [SUSPICIOUS / WARNING] [SIEM] [LATERAL_FANOUT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Internal host 192.168.1.50 connected to 5 distinct internal targets within 120s (Lateral Scan).
+  Details: Internal host 192.168.1.50 connected to 5 distinct internal targets within 120s (Lateral Scan).
+---------------------------------------------------------------------------
+[2026-08-26 15:42:24] [WARNING ] [SUSPICIOUS / WARNING] [SIEM] [LATERAL_FANOUT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Internal host 192.168.1.50 connected to 6 distinct internal targets within 120s (Lateral Scan).
+  Details: Internal host 192.168.1.50 connected to 6 distinct internal targets within 120s (Lateral Scan).
+---------------------------------------------------------------------------
+[2026-08-26 15:42:24] [CRITICAL] [MALICIOUS OPERATION] [SIEM] [CORRELATION_ALERT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Multi-Stage Attack Chain: Brute-Force Followed by Successful Compromise | Details: 4 failed login attempts followed by successful authentication.
+  Details: Multi-Stage Attack Chain: Brute-Force Followed by Successful Compromise | Details: 4 failed login attempts followed by successful authentication.
+---------------------------------------------------------------------------
+[2026-08-26 15:42:24] [CRITICAL] [MALICIOUS OPERATION] [SIEM] [IMPOSSIBLE_TRAVEL]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Impossible Travel: User alice logged in from Sydney, Australia only 15.0 minutes after Frankfurt, Germany (16482.9 km at 65931.5 km/h).
+  Details: Impossible Travel: User alice logged in from Sydney, Australia only 15.0 minutes after Frankfurt, Germany (16482.9 km at 65931.5 km/h).
+---------------------------------------------------------------------------
+[2026-08-26 15:42:24] [WARNING ] [SUSPICIOUS / WARNING] [SIEM] [DORMANT_AWAKEN]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Dormant Account Alert: Account 'bob' awakened after 45.0 days of zero activity.
+  Details: Dormant Account Alert: Account 'bob' awakened after 45.0 days of zero activity.
+---------------------------------------------------------------------------
+[2026-08-26 15:42:24] [CRITICAL] [MALICIOUS OPERATION] [SIEM] [HIGH_RISK_ENTITY]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: User 'attacker' reached CRITICAL Risk Score: 90.0/100 (Trigger: SUID PrivEsc Attempt)
+  Details: User 'attacker' reached CRITICAL Risk Score: 90.0/100 (Trigger: SUID PrivEsc Attempt)
+---------------------------------------------------------------------------
+[2026-08-26 15:42:24] [WARNING ] [SUSPICIOUS / WARNING] [BAN_MANAGER] [CORPORATE_EGRESS_SESSION_ISOLATED]
+  Target: 198.51.100.1 | MITRE: N/A | AI Verdict: N/A
+  Summary: Security violation from user behind corporate gateway 198.51.100.1. Session terminated without firewall drop.
+  Details: Security violation from user behind corporate gateway 198.51.100.1. Session terminated without firewall drop.
+---------------------------------------------------------------------------
+[2026-08-26 15:42:24] [CRITICAL] [MALICIOUS OPERATION] [BAN_MANAGER] [EXTERNAL_IP_BAN]
+  Target: 85.90.10.77 | MITRE: N/A | AI Verdict: N/A
+  Summary: EXTERNAL WAN IP 85.90.10.77 dropped on firewall due to security violations.
+  Details: Target 85.90.10.77 (EXTERNAL) restricted for 1440 mins. Reason: Zero-Tolerance SSH Decoy Trap on Port 22 (Real SSH Port: 2222)
+---------------------------------------------------------------------------
+[2026-08-26 15:42:24] [INFO    ] [SAFE OPERATION] [BAN_MANAGER] [BAN_REMOVED]
+  Target: 85.90.10.77 | MITRE: N/A | AI Verdict: N/A
+  Summary: Network: [EXTERNAL] | Target: 85.90.10.77 restriction lifted! Reason: Manual Admin Master Flush
+  Details: Network: [EXTERNAL] | Target: 85.90.10.77 restriction lifted! Reason: Manual Admin Master Flush
+---------------------------------------------------------------------------
+[2026-08-26 15:42:25] [NOTICE  ] [SAFE OPERATION] [HOST_CONTAINMENT] [HOST_CONTAINMENT_RESTORED]
+  Target: LOCAL_SYSTEM | MITRE: N/A | AI Verdict: N/A
+  Summary: HOST NETWORK CONTAINMENT RESTORED! Normal enterprise network routing active. Reason: 'Admin Remediation Complete'.
+  Details: HOST NETWORK CONTAINMENT RESTORED! Normal enterprise network routing active. Reason: 'Admin Remediation Complete'.
+---------------------------------------------------------------------------
+[2026-08-26 15:42:25] [CRITICAL] [MALICIOUS OPERATION] [HOST_CONTAINMENT] [HOST_CONTAINMENT_ACTIVATED]
+  Target: LOCAL_SYSTEM | MITRE: N/A | AI Verdict: N/A
+  Summary: EMERGENCY HOST CONTAINMENT ACTIVATED! Host isolated from all external/internal networks. Reason: 'Active Ransomware Lateral Movement Detected'. Preserved Management Lifelines: ['10
+  Details: EMERGENCY HOST CONTAINMENT ACTIVATED! Host isolated from all external/internal networks. Reason: 'Active Ransomware Lateral Movement Detected'. Preserved Management Lifelines: ['10.0.0.100', '10.0.5.99', '127.0.0.1', '192.168.1.100', '::1', 'localhost']
+---------------------------------------------------------------------------
+[2026-08-26 15:42:25] [NOTICE  ] [SAFE OPERATION] [HOST_CONTAINMENT] [HOST_CONTAINMENT_RESTORED]
+  Target: LOCAL_SYSTEM | MITRE: N/A | AI Verdict: N/A
+  Summary: HOST NETWORK CONTAINMENT RESTORED! Normal enterprise network routing active. Reason: 'Admin Remediation Complete'.
+  Details: HOST NETWORK CONTAINMENT RESTORED! Normal enterprise network routing active. Reason: 'Admin Remediation Complete'.
+---------------------------------------------------------------------------
+[2026-08-26 15:42:25] [NOTICE  ] [SAFE OPERATION] [HOST_CONTAINMENT] [HOST_CONTAINMENT_RESTORED]
+  Target: LOCAL_SYSTEM | MITRE: N/A | AI Verdict: N/A
+  Summary: HOST NETWORK CONTAINMENT RESTORED! Normal enterprise network routing active. Reason: 'Admin Remediation Complete'.
+  Details: HOST NETWORK CONTAINMENT RESTORED! Normal enterprise network routing active. Reason: 'Admin Remediation Complete'.
+---------------------------------------------------------------------------
+[2026-08-26 15:42:25] [CRITICAL] [MALICIOUS OPERATION] [HOST_CONTAINMENT] [HOST_CONTAINMENT_ACTIVATED]
+  Target: LOCAL_SYSTEM | MITRE: N/A | AI Verdict: N/A
+  Summary: EMERGENCY HOST CONTAINMENT ACTIVATED! Host isolated from all external/internal networks. Reason: 'SOC Incident Triage'. Preserved Management Lifelines: ['10.0.0.100', '127.0.0.1', 
+  Details: EMERGENCY HOST CONTAINMENT ACTIVATED! Host isolated from all external/internal networks. Reason: 'SOC Incident Triage'. Preserved Management Lifelines: ['10.0.0.100', '127.0.0.1', '192.168.1.100', '::1', 'localhost']
+---------------------------------------------------------------------------
+[2026-08-26 15:42:25] [NOTICE  ] [SAFE OPERATION] [HOST_CONTAINMENT] [HOST_CONTAINMENT_RESTORED]
+  Target: LOCAL_SYSTEM | MITRE: N/A | AI Verdict: N/A
+  Summary: HOST NETWORK CONTAINMENT RESTORED! Normal enterprise network routing active. Reason: 'Admin Remediation Complete'.
+  Details: HOST NETWORK CONTAINMENT RESTORED! Normal enterprise network routing active. Reason: 'Admin Remediation Complete'.
+---------------------------------------------------------------------------
+[2026-08-26 15:42:25] [NOTICE  ] [SAFE OPERATION] [HOST_CONTAINMENT] [HOST_CONTAINMENT_RESTORED]
+  Target: LOCAL_SYSTEM | MITRE: N/A | AI Verdict: N/A
+  Summary: HOST NETWORK CONTAINMENT RESTORED! Normal enterprise network routing active. Reason: 'Admin Remediation Complete'.
+  Details: HOST NETWORK CONTAINMENT RESTORED! Normal enterprise network routing active. Reason: 'Admin Remediation Complete'.
+---------------------------------------------------------------------------
+[2026-08-26 15:42:25] [CRITICAL] [MALICIOUS OPERATION] [HOST_CONTAINMENT] [HOST_CONTAINMENT_ACTIVATED]
+  Target: LOCAL_SYSTEM | MITRE: N/A | AI Verdict: N/A
+  Summary: EMERGENCY HOST CONTAINMENT ACTIVATED! Host isolated from all external/internal networks. Reason: 'Test Isolation'. Preserved Management Lifelines: ['10.0.0.100', '127.0.0.1', '192.
+  Details: EMERGENCY HOST CONTAINMENT ACTIVATED! Host isolated from all external/internal networks. Reason: 'Test Isolation'. Preserved Management Lifelines: ['10.0.0.100', '127.0.0.1', '192.168.1.100', '::1', 'localhost']
+---------------------------------------------------------------------------
+[2026-08-26 15:42:25] [NOTICE  ] [SAFE OPERATION] [HOST_CONTAINMENT] [HOST_CONTAINMENT_RESTORED]
+  Target: LOCAL_SYSTEM | MITRE: N/A | AI Verdict: N/A
+  Summary: HOST NETWORK CONTAINMENT RESTORED! Normal enterprise network routing active. Reason: 'Incident Resolved by SecOps'.
+  Details: HOST NETWORK CONTAINMENT RESTORED! Normal enterprise network routing active. Reason: 'Incident Resolved by SecOps'.
+---------------------------------------------------------------------------
+[2026-08-26 15:42:25] [NOTICE  ] [SAFE OPERATION] [HOST_CONTAINMENT] [HOST_CONTAINMENT_RESTORED]
+  Target: LOCAL_SYSTEM | MITRE: N/A | AI Verdict: N/A
+  Summary: HOST NETWORK CONTAINMENT RESTORED! Normal enterprise network routing active. Reason: 'Admin Remediation Complete'.
+  Details: HOST NETWORK CONTAINMENT RESTORED! Normal enterprise network routing active. Reason: 'Admin Remediation Complete'.
+---------------------------------------------------------------------------
+[2026-08-26 15:42:25] [WARNING ] [SUSPICIOUS / WARNING] [MAINTENANCE_DEFENSE] [MAINTENANCE_VIOLATION]
+  Target: 192.168.1.105 | MITRE: N/A | AI Verdict: N/A
+  Summary: MAINTENANCE ACCESS DENIED: User 'guest' attempted 'uptime' from 192.168.1.105 on pts/1. Active Window: 'Database Migration'.
+  Details: MAINTENANCE ACCESS DENIED: User 'guest' attempted 'uptime' from 192.168.1.105 on pts/1. Active Window: 'Database Migration'.
+---------------------------------------------------------------------------
+[2026-08-26 15:42:25] [NOTICE  ] [SAFE OPERATION] [HONEYPOT_TRAP] [PORT_22_PROBE_TOLERATED]
+  Target: 198.51.100.77 | MITRE: N/A | AI Verdict: N/A
+  Summary: Port 22 connect attempt 1/2 from 198.51.100.77. Informative banner sent (No ban applied yet).
+  Details: Port 22 connect attempt 1/2 from 198.51.100.77. Informative banner sent (No ban applied yet).
+---------------------------------------------------------------------------
+[2026-08-26 15:42:25] [NOTICE  ] [SAFE OPERATION] [HONEYPOT_TRAP] [PORT_22_PROBE_TOLERATED]
+  Target: 198.51.100.77 | MITRE: N/A | AI Verdict: N/A
+  Summary: Port 22 connect attempt 2/2 from 198.51.100.77. Informative banner sent (No ban applied yet).
+  Details: Port 22 connect attempt 2/2 from 198.51.100.77. Informative banner sent (No ban applied yet).
+---------------------------------------------------------------------------
+[2026-08-26 15:42:25] [CRITICAL] [MALICIOUS OPERATION] [HONEYPOT_TRAP] [PORT_22_HONEYPOT_INTERCEPT]
+  Target: 198.51.100.77 | MITRE: N/A | AI Verdict: N/A
+  Summary: Malicious scanner 198.51.100.77 trapped on decoy port 22. 24-Hour ban applied.
+  Details: Malicious scanner 198.51.100.77 trapped on decoy port 22. 24-Hour ban applied.
+---------------------------------------------------------------------------
+[2026-08-26 15:42:25] [CRITICAL] [MALICIOUS OPERATION] [BAN_MANAGER] [INTERNAL_IP_BAN]
+  Target: 198.51.100.77 | MITRE: N/A | AI Verdict: N/A
+  Summary: INTERNAL LAN IP 198.51.100.77 SSH isolated due to security violations.
+  Details: Target 198.51.100.77 (INTERNAL) restricted for 1440 mins. Reason: Zero-Tolerance SSH Decoy Trap on Port 22 (Real SSH Port: 2222)
+---------------------------------------------------------------------------
+[2026-08-26 15:42:25] [INFO    ] [SAFE OPERATION] [BAN_MANAGER] [BAN_REMOVED]
+  Target: 198.51.100.77 | MITRE: N/A | AI Verdict: N/A
+  Summary: Network: [INTERNAL] | Target: 198.51.100.77 restriction lifted! Reason: Manual Admin Master Flush
+  Details: Network: [INTERNAL] | Target: 198.51.100.77 restriction lifted! Reason: Manual Admin Master Flush
+---------------------------------------------------------------------------
+[2026-08-26 15:42:25] [NOTICE  ] [SAFE OPERATION] [SESSION_TRACKER] [USER_LOGIN]
+  Target: 192.168.1.55 | MITRE: N/A | AI Verdict: N/A
+  Summary: User 'restricted_intern' logged in successfully. (IP: 192.168.1.55 | Terminal: pts/3)
+  Details: User 'restricted_intern' logged in successfully. (IP: 192.168.1.55 | Terminal: pts/3)
+---------------------------------------------------------------------------
+[2026-08-26 15:42:25] [WARNING ] [SUSPICIOUS / WARNING] [ACCESS_CONTROL] [PERMISSION_DENIED]
+  Target: 192.168.1.55 | MITRE: N/A | AI Verdict: N/A
+  Summary: PERMISSION DENIED: User 'restricted_intern' lacks permission(s) [WRITE] for 'rm -rf /tmp/data' (Required: WRITE).
+  Details: PERMISSION DENIED: User 'restricted_intern' lacks permission(s) [WRITE] for 'rm -rf /tmp/data' (Required: WRITE).
+---------------------------------------------------------------------------
+[2026-08-26 15:42:26] [CRITICAL] [MALICIOUS OPERATION] [BAN_MANAGER] [EXTERNAL_IP_BAN]
+  Target: 85.90.10.0/24 | MITRE: N/A | AI Verdict: N/A
+  Summary: EXTERNAL WAN IP 85.90.10.0/24 dropped on firewall due to security violations.
+  Details: Target 85.90.10.0/24 (EXTERNAL) restricted for 120 mins. Reason: Test Public Botnet Subnet
+---------------------------------------------------------------------------
+[2026-08-26 15:42:26] [INFO    ] [SAFE OPERATION] [BAN_MANAGER] [BAN_REMOVED]
+  Target: 85.90.10.0/24 | MITRE: N/A | AI Verdict: N/A
+  Summary: Network: [EXTERNAL] | Target: 85.90.10.0/24 restriction lifted! Reason: Manual Admin Master Flush
+  Details: Network: [EXTERNAL] | Target: 85.90.10.0/24 restriction lifted! Reason: Manual Admin Master Flush
+---------------------------------------------------------------------------
+[2026-08-26 15:42:35] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 15:42:35] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 15:42:35] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 15:52:39] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 15:52:39] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 15:52:39] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 15:52:44] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 15:52:44] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 15:52:44] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 15:52:44] [NOTICE  ] [SAFE OPERATION] [USER_MGMT] [USER_IDENTITY_PROVISIONED]
+  Target: ahmet | MITRE: N/A | AI Verdict: N/A
+  Summary: User 'ahmet' provisioned with Role 'DEVOPS' and Permissions 'rwxn- (EXECUTE, NETWORK, READ, WRITE)'. (Desc: Senior DevOps Engineer)
+  Details: User 'ahmet' provisioned with Role 'DEVOPS' and Permissions 'rwxn- (EXECUTE, NETWORK, READ, WRITE)'. (Desc: Senior DevOps Engineer)
+---------------------------------------------------------------------------
+[2026-08-26 15:52:49] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 15:52:49] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 15:52:49] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 15:52:57] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 15:52:57] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 15:52:57] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 15:53:02] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 15:53:02] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 15:53:02] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 15:55:29] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 15:55:29] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 15:55:29] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 15:55:29] [NOTICE  ] [SAFE OPERATION] [HONEYPOT_TRAP] [PORT_22_PROBE_TOLERATED]
+  Target: 203.0.113.88 | MITRE: N/A | AI Verdict: N/A
+  Summary: Port 22 connect attempt 1/2 from 203.0.113.88. Informative banner sent (No ban applied yet).
+  Details: Port 22 connect attempt 1/2 from 203.0.113.88. Informative banner sent (No ban applied yet).
+---------------------------------------------------------------------------
+[2026-08-26 15:55:29] [CRITICAL] [MALICIOUS OPERATION] [FILE_INTEGRITY] [FILE_INTEGRITY_MODIFIED]
+  Target: test_fim_master_sim.txt | MITRE: N/A | AI Verdict: N/A
+  Summary: Critical System File Integrity Breach detected on 'test_fim_master_sim.txt'.
+  Details: Unauthorized mutation in 'test_fim_master_sim.txt'! Injected: 1 lines, Deleted: 0 lines. Added: ['BACKDOOR_KEY=ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC...'] | Removed: []
+---------------------------------------------------------------------------
+[2026-08-26 15:55:29] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 15:55:29] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 15:55:59] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 15:55:59] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 15:55:59] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 15:56:00] [CRITICAL] [MALICIOUS OPERATION] [BAN_MANAGER] [INTERNAL_IP_BAN]
+  Target: 198.51.100.11 | MITRE: N/A | AI Verdict: N/A
+  Summary: INTERNAL LAN IP 198.51.100.11 SSH isolated due to security violations.
+  Details: Target 198.51.100.11 (INTERNAL) restricted for 15 mins. Reason: SSH Brute Force Attack
+---------------------------------------------------------------------------
+[2026-08-26 15:56:00] [NOTICE  ] [SAFE OPERATION] [HONEYPOT_TRAP] [PORT_22_PROBE_TOLERATED]
+  Target: 203.0.113.88 | MITRE: N/A | AI Verdict: N/A
+  Summary: Port 22 connect attempt 1/2 from 203.0.113.88. Informative banner sent (No ban applied yet).
+  Details: Port 22 connect attempt 1/2 from 203.0.113.88. Informative banner sent (No ban applied yet).
+---------------------------------------------------------------------------
+[2026-08-26 15:56:00] [NOTICE  ] [SAFE OPERATION] [HONEYPOT_TRAP] [PORT_22_PROBE_TOLERATED]
+  Target: 203.0.113.88 | MITRE: N/A | AI Verdict: N/A
+  Summary: Port 22 connect attempt 2/2 from 203.0.113.88. Informative banner sent (No ban applied yet).
+  Details: Port 22 connect attempt 2/2 from 203.0.113.88. Informative banner sent (No ban applied yet).
+---------------------------------------------------------------------------
+[2026-08-26 15:56:00] [CRITICAL] [MALICIOUS OPERATION] [SIEM] [IMPOSSIBLE_TRAVEL]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Impossible Travel: User lead_architect logged in from Tokyo, Japan only 10.0 minutes after New York, United States (10851.7 km at 65110.4 km/h).
+  Details: Impossible Travel: User lead_architect logged in from Tokyo, Japan only 10.0 minutes after New York, United States (10851.7 km at 65110.4 km/h).
+---------------------------------------------------------------------------
+[2026-08-26 15:56:00] [CRITICAL] [MALICIOUS OPERATION] [FILE_INTEGRITY] [FILE_INTEGRITY_MODIFIED]
+  Target: test_fim_master_sim.txt | MITRE: N/A | AI Verdict: N/A
+  Summary: Critical System File Integrity Breach detected on 'test_fim_master_sim.txt'.
+  Details: Unauthorized mutation in 'test_fim_master_sim.txt'! Injected: 1 lines, Deleted: 0 lines. Added: ['BACKDOOR_KEY=ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC...'] | Removed: []
+---------------------------------------------------------------------------
+[2026-08-26 15:56:00] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 15:56:00] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 15:56:00] [INFO    ] [SAFE OPERATION] [BAN_MANAGER] [BAN_REMOVED]
+  Target: 198.51.100.11 | MITRE: N/A | AI Verdict: N/A
+  Summary: Network: [INTERNAL] | Target: 198.51.100.11 restriction lifted! Reason: Manual Admin Master Flush
+  Details: Network: [INTERNAL] | Target: 198.51.100.11 restriction lifted! Reason: Manual Admin Master Flush
+---------------------------------------------------------------------------
+[2026-08-26 15:56:20] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 15:56:20] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 15:56:20] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 15:56:27] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 15:56:27] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 15:56:27] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 15:56:34] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 15:56:34] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 15:56:34] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 15:56:52] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 15:56:52] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 15:56:52] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 15:56:55] [CRITICAL] [MALICIOUS OPERATION] [BAN_MANAGER] [INTERNAL_IP_BAN]
+  Target: 198.51.100.11 | MITRE: N/A | AI Verdict: N/A
+  Summary: INTERNAL LAN IP 198.51.100.11 SSH isolated due to security violations.
+  Details: Target 198.51.100.11 (INTERNAL) restricted for 30 mins. Reason: SSH Brute Force Attack
+---------------------------------------------------------------------------
+[2026-08-26 15:56:55] [NOTICE  ] [SAFE OPERATION] [HONEYPOT_TRAP] [PORT_22_PROBE_TOLERATED]
+  Target: 203.0.113.88 | MITRE: N/A | AI Verdict: N/A
+  Summary: Port 22 connect attempt 1/2 from 203.0.113.88. Informative banner sent (No ban applied yet).
+  Details: Port 22 connect attempt 1/2 from 203.0.113.88. Informative banner sent (No ban applied yet).
+---------------------------------------------------------------------------
+[2026-08-26 15:56:55] [NOTICE  ] [SAFE OPERATION] [HONEYPOT_TRAP] [PORT_22_PROBE_TOLERATED]
+  Target: 203.0.113.88 | MITRE: N/A | AI Verdict: N/A
+  Summary: Port 22 connect attempt 2/2 from 203.0.113.88. Informative banner sent (No ban applied yet).
+  Details: Port 22 connect attempt 2/2 from 203.0.113.88. Informative banner sent (No ban applied yet).
+---------------------------------------------------------------------------
+[2026-08-26 15:56:55] [CRITICAL] [MALICIOUS OPERATION] [HONEYPOT_TRAP] [PORT_22_HONEYPOT_INTERCEPT]
+  Target: 203.0.113.88 | MITRE: N/A | AI Verdict: N/A
+  Summary: Malicious scanner 203.0.113.88 trapped on decoy port 22. 24-Hour ban applied.
+  Details: Malicious scanner 203.0.113.88 trapped on decoy port 22. 24-Hour ban applied.
+---------------------------------------------------------------------------
+[2026-08-26 15:56:55] [CRITICAL] [MALICIOUS OPERATION] [BAN_MANAGER] [INTERNAL_IP_BAN]
+  Target: 203.0.113.88 | MITRE: N/A | AI Verdict: N/A
+  Summary: INTERNAL LAN IP 203.0.113.88 SSH isolated due to security violations.
+  Details: Target 203.0.113.88 (INTERNAL) restricted for 1440 mins. Reason: Zero-Tolerance SSH Decoy Trap on Port 22 (Real SSH Port: 2222)
+---------------------------------------------------------------------------
+[2026-08-26 15:56:55] [CRITICAL] [MALICIOUS OPERATION] [SIEM] [IMPOSSIBLE_TRAVEL]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Impossible Travel: User lead_architect logged in from Tokyo, Japan only 10.0 minutes after New York, United States (10851.7 km at 65110.4 km/h).
+  Details: Impossible Travel: User lead_architect logged in from Tokyo, Japan only 10.0 minutes after New York, United States (10851.7 km at 65110.4 km/h).
+---------------------------------------------------------------------------
+[2026-08-26 15:56:55] [CRITICAL] [MALICIOUS OPERATION] [FILE_INTEGRITY] [FILE_INTEGRITY_MODIFIED]
+  Target: test_fim_master_sim.txt | MITRE: N/A | AI Verdict: N/A
+  Summary: Critical System File Integrity Breach detected on 'test_fim_master_sim.txt'.
+  Details: Unauthorized mutation in 'test_fim_master_sim.txt'! Injected: 1 lines, Deleted: 0 lines. Added: ['BACKDOOR_KEY=ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC...'] | Removed: []
+---------------------------------------------------------------------------
+[2026-08-26 15:56:55] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 15:56:55] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 15:56:55] [INFO    ] [SAFE OPERATION] [BAN_MANAGER] [BAN_REMOVED]
+  Target: 198.51.100.11 | MITRE: N/A | AI Verdict: N/A
+  Summary: Network: [INTERNAL] | Target: 198.51.100.11 restriction lifted! Reason: Manual Admin Master Flush
+  Details: Network: [INTERNAL] | Target: 198.51.100.11 restriction lifted! Reason: Manual Admin Master Flush
+---------------------------------------------------------------------------
+[2026-08-26 15:56:55] [INFO    ] [SAFE OPERATION] [BAN_MANAGER] [BAN_REMOVED]
+  Target: 203.0.113.88 | MITRE: N/A | AI Verdict: N/A
+  Summary: Network: [INTERNAL] | Target: 203.0.113.88 restriction lifted! Reason: Manual Admin Master Flush
+  Details: Network: [INTERNAL] | Target: 203.0.113.88 restriction lifted! Reason: Manual Admin Master Flush
+---------------------------------------------------------------------------
+[2026-08-26 15:57:07] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 15:57:07] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 15:57:07] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 15:57:11] [CRITICAL] [MALICIOUS OPERATION] [BAN_MANAGER] [INTERNAL_IP_BAN]
+  Target: 198.51.100.11 | MITRE: N/A | AI Verdict: N/A
+  Summary: INTERNAL LAN IP 198.51.100.11 SSH isolated due to security violations.
+  Details: Target 198.51.100.11 (INTERNAL) restricted for 60 mins. Reason: SSH Brute Force Attack
+---------------------------------------------------------------------------
+[2026-08-26 15:57:11] [NOTICE  ] [SAFE OPERATION] [HONEYPOT_TRAP] [PORT_22_PROBE_TOLERATED]
+  Target: 203.0.113.88 | MITRE: N/A | AI Verdict: N/A
+  Summary: Port 22 connect attempt 1/2 from 203.0.113.88. Informative banner sent (No ban applied yet).
+  Details: Port 22 connect attempt 1/2 from 203.0.113.88. Informative banner sent (No ban applied yet).
+---------------------------------------------------------------------------
+[2026-08-26 15:57:11] [NOTICE  ] [SAFE OPERATION] [HONEYPOT_TRAP] [PORT_22_PROBE_TOLERATED]
+  Target: 203.0.113.88 | MITRE: N/A | AI Verdict: N/A
+  Summary: Port 22 connect attempt 2/2 from 203.0.113.88. Informative banner sent (No ban applied yet).
+  Details: Port 22 connect attempt 2/2 from 203.0.113.88. Informative banner sent (No ban applied yet).
+---------------------------------------------------------------------------
+[2026-08-26 15:57:11] [CRITICAL] [MALICIOUS OPERATION] [HONEYPOT_TRAP] [PORT_22_HONEYPOT_INTERCEPT]
+  Target: 203.0.113.88 | MITRE: N/A | AI Verdict: N/A
+  Summary: Malicious scanner 203.0.113.88 trapped on decoy port 22. 24-Hour ban applied.
+  Details: Malicious scanner 203.0.113.88 trapped on decoy port 22. 24-Hour ban applied.
+---------------------------------------------------------------------------
+[2026-08-26 15:57:11] [CRITICAL] [MALICIOUS OPERATION] [BAN_MANAGER] [INTERNAL_IP_BAN]
+  Target: 203.0.113.88 | MITRE: N/A | AI Verdict: N/A
+  Summary: INTERNAL LAN IP 203.0.113.88 SSH isolated due to security violations.
+  Details: Target 203.0.113.88 (INTERNAL) restricted for 2880 mins. Reason: Zero-Tolerance SSH Decoy Trap on Port 22 (Real SSH Port: 2222)
+---------------------------------------------------------------------------
+[2026-08-26 15:57:11] [CRITICAL] [MALICIOUS OPERATION] [SIEM] [IMPOSSIBLE_TRAVEL]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Impossible Travel: User lead_architect logged in from Tokyo, Japan only 10.0 minutes after New York, United States (10851.7 km at 65110.4 km/h).
+  Details: Impossible Travel: User lead_architect logged in from Tokyo, Japan only 10.0 minutes after New York, United States (10851.7 km at 65110.4 km/h).
+---------------------------------------------------------------------------
+[2026-08-26 15:57:11] [CRITICAL] [MALICIOUS OPERATION] [FILE_INTEGRITY] [FILE_INTEGRITY_MODIFIED]
+  Target: test_fim_master_sim.txt | MITRE: N/A | AI Verdict: N/A
+  Summary: Critical System File Integrity Breach detected on 'test_fim_master_sim.txt'.
+  Details: Unauthorized mutation in 'test_fim_master_sim.txt'! Injected: 1 lines, Deleted: 0 lines. Added: ['BACKDOOR_KEY=ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC...'] | Removed: []
+---------------------------------------------------------------------------
+[2026-08-26 15:57:11] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 15:57:11] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 15:57:11] [INFO    ] [SAFE OPERATION] [BAN_MANAGER] [BAN_REMOVED]
+  Target: 198.51.100.11 | MITRE: N/A | AI Verdict: N/A
+  Summary: Network: [INTERNAL] | Target: 198.51.100.11 restriction lifted! Reason: Manual Admin Master Flush
+  Details: Network: [INTERNAL] | Target: 198.51.100.11 restriction lifted! Reason: Manual Admin Master Flush
+---------------------------------------------------------------------------
+[2026-08-26 15:57:11] [INFO    ] [SAFE OPERATION] [BAN_MANAGER] [BAN_REMOVED]
+  Target: 203.0.113.88 | MITRE: N/A | AI Verdict: N/A
+  Summary: Network: [INTERNAL] | Target: 203.0.113.88 restriction lifted! Reason: Manual Admin Master Flush
+  Details: Network: [INTERNAL] | Target: 203.0.113.88 restriction lifted! Reason: Manual Admin Master Flush
+---------------------------------------------------------------------------
+[2026-08-26 15:57:15] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 15:57:15] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 15:57:15] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 16:02:19] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 16:02:19] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 16:02:19] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 16:02:23] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 16:02:23] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 16:02:23] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 16:02:37] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 16:02:37] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 16:02:37] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 16:02:42] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 16:02:42] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 16:02:42] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 16:02:51] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 16:02:51] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 16:02:51] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:07] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:07] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:07] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:11] [CRITICAL] [MALICIOUS OPERATION] [SIEM] [CORRELATION_ALERT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Multi-Stage Attack Chain: Brute-Force Followed by Successful Compromise | Details: 4 failed login attempts followed by successful authentication.
+  Details: Multi-Stage Attack Chain: Brute-Force Followed by Successful Compromise | Details: 4 failed login attempts followed by successful authentication.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:11] [CRITICAL] [MALICIOUS OPERATION] [SIEM] [CORRELATION_ALERT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Multi-Stage Attack Chain: Full Cyber Kill Chain (Access -> Escalation -> C2/Execution) | Details: User logged in, executed privilege escalation, and initiated high-risk payload/C2 
+  Details: Multi-Stage Attack Chain: Full Cyber Kill Chain (Access -> Escalation -> C2/Execution) | Details: User logged in, executed privilege escalation, and initiated high-risk payload/C2 connection.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:11] [CRITICAL] [MALICIOUS OPERATION] [SIEM] [IMPOSSIBLE_TRAVEL]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Impossible Travel: User roaming_exec logged in from Tokyo, Japan only 2.0 minutes after New York, United States (10851.7 km at 325552.0 km/h).
+  Details: Impossible Travel: User roaming_exec logged in from Tokyo, Japan only 2.0 minutes after New York, United States (10851.7 km at 325552.0 km/h).
+---------------------------------------------------------------------------
+[2026-08-26 16:04:11] [CRITICAL] [MALICIOUS OPERATION] [SIEM] [IMPOSSIBLE_TRAVEL]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Impossible Travel: User roaming_exec logged in from Sydney, Australia only 2.0 minutes after Tokyo, Japan (7825.8 km at 234774.6 km/h).
+  Details: Impossible Travel: User roaming_exec logged in from Sydney, Australia only 2.0 minutes after Tokyo, Japan (7825.8 km at 234774.6 km/h).
+---------------------------------------------------------------------------
+[2026-08-26 16:04:11] [CRITICAL] [MALICIOUS OPERATION] [SIEM] [IMPOSSIBLE_TRAVEL]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Impossible Travel: User roaming_exec logged in from New York, United States only 2.0 minutes after Sydney, Australia (15988.8 km at 479662.7 km/h).
+  Details: Impossible Travel: User roaming_exec logged in from New York, United States only 2.0 minutes after Sydney, Australia (15988.8 km at 479662.7 km/h).
+---------------------------------------------------------------------------
+[2026-08-26 16:04:11] [NOTICE  ] [SAFE OPERATION] [HONEYPOT_TRAP] [PORT_22_PROBE_TOLERATED]
+  Target: 198.51.100.122 | MITRE: N/A | AI Verdict: N/A
+  Summary: Port 22 connect attempt 1/2 from 198.51.100.122. Informative banner sent (No ban applied yet).
+  Details: Port 22 connect attempt 1/2 from 198.51.100.122. Informative banner sent (No ban applied yet).
+---------------------------------------------------------------------------
+[2026-08-26 16:04:11] [NOTICE  ] [SAFE OPERATION] [HONEYPOT_TRAP] [PORT_22_PROBE_TOLERATED]
+  Target: 198.51.100.122 | MITRE: N/A | AI Verdict: N/A
+  Summary: Port 22 connect attempt 2/2 from 198.51.100.122. Informative banner sent (No ban applied yet).
+  Details: Port 22 connect attempt 2/2 from 198.51.100.122. Informative banner sent (No ban applied yet).
+---------------------------------------------------------------------------
+[2026-08-26 16:04:11] [CRITICAL] [MALICIOUS OPERATION] [HONEYPOT_TRAP] [PORT_22_HONEYPOT_INTERCEPT]
+  Target: 198.51.100.122 | MITRE: N/A | AI Verdict: N/A
+  Summary: Malicious scanner 198.51.100.122 trapped on decoy port 22. 24-Hour ban applied.
+  Details: Malicious scanner 198.51.100.122 trapped on decoy port 22. 24-Hour ban applied.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:11] [CRITICAL] [MALICIOUS OPERATION] [BAN_MANAGER] [INTERNAL_IP_BAN]
+  Target: 198.51.100.122 | MITRE: N/A | AI Verdict: N/A
+  Summary: INTERNAL LAN IP 198.51.100.122 SSH isolated due to security violations.
+  Details: Target 198.51.100.122 (INTERNAL) restricted for 1440 mins. Reason: Zero-Tolerance SSH Decoy Trap on Port 22 (Real SSH Port: 2222)
+---------------------------------------------------------------------------
+[2026-08-26 16:04:11] [CRITICAL] [MALICIOUS OPERATION] [HONEYPOT_TRAP] [HONEYPOT_PROBE_INTERCEPT]
+  Target: 198.51.100.123 | MITRE: N/A | AI Verdict: N/A
+  Summary: Malicious scanner 198.51.100.123 intercepted on deceptive honeypot trap.
+  Details: Malicious scanner 198.51.100.123 trapped on decoy port 23. 24-Hour ban applied.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:11] [CRITICAL] [MALICIOUS OPERATION] [BAN_MANAGER] [INTERNAL_IP_BAN]
+  Target: 198.51.100.123 | MITRE: N/A | AI Verdict: N/A
+  Summary: INTERNAL LAN IP 198.51.100.123 SSH isolated due to security violations.
+  Details: Target 198.51.100.123 (INTERNAL) restricted for 1440 mins. Reason: Zero-Tolerance Honeypot Intercept on Decoy Port 23
+---------------------------------------------------------------------------
+[2026-08-26 16:04:11] [CRITICAL] [MALICIOUS OPERATION] [HONEYPOT_TRAP] [HONEYPOT_PROBE_INTERCEPT]
+  Target: 198.51.100.123 | MITRE: N/A | AI Verdict: N/A
+  Summary: Malicious scanner 198.51.100.123 intercepted on deceptive honeypot trap.
+  Details: Malicious scanner 198.51.100.123 trapped on decoy port 23. 24-Hour ban applied.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:11] [CRITICAL] [MALICIOUS OPERATION] [HONEYPOT_TRAP] [HONEYPOT_PROBE_INTERCEPT]
+  Target: 198.51.100.123 | MITRE: N/A | AI Verdict: N/A
+  Summary: Malicious scanner 198.51.100.123 intercepted on deceptive honeypot trap.
+  Details: Malicious scanner 198.51.100.123 trapped on decoy port 23. 24-Hour ban applied.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:11] [CRITICAL] [MALICIOUS OPERATION] [HONEYPOT_TRAP] [HONEYPOT_PROBE_INTERCEPT]
+  Target: 198.51.100.123 | MITRE: N/A | AI Verdict: N/A
+  Summary: Malicious scanner 198.51.100.123 intercepted on deceptive honeypot trap.
+  Details: Malicious scanner 198.51.100.123 trapped on decoy port 2323. 24-Hour ban applied.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:11] [CRITICAL] [MALICIOUS OPERATION] [HONEYPOT_TRAP] [HONEYPOT_PROBE_INTERCEPT]
+  Target: 198.51.100.123 | MITRE: N/A | AI Verdict: N/A
+  Summary: Malicious scanner 198.51.100.123 intercepted on deceptive honeypot trap.
+  Details: Malicious scanner 198.51.100.123 trapped on decoy port 2323. 24-Hour ban applied.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:11] [CRITICAL] [MALICIOUS OPERATION] [HONEYPOT_TRAP] [HONEYPOT_PROBE_INTERCEPT]
+  Target: 198.51.100.123 | MITRE: N/A | AI Verdict: N/A
+  Summary: Malicious scanner 198.51.100.123 intercepted on deceptive honeypot trap.
+  Details: Malicious scanner 198.51.100.123 trapped on decoy port 2323. 24-Hour ban applied.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:11] [CRITICAL] [MALICIOUS OPERATION] [HONEYPOT_TRAP] [HONEYPOT_PROBE_INTERCEPT]
+  Target: 198.51.100.155 | MITRE: N/A | AI Verdict: N/A
+  Summary: Malicious scanner 198.51.100.155 intercepted on deceptive honeypot trap.
+  Details: Malicious scanner 198.51.100.155 trapped on decoy port 5555. 24-Hour ban applied.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:11] [CRITICAL] [MALICIOUS OPERATION] [BAN_MANAGER] [INTERNAL_IP_BAN]
+  Target: 198.51.100.155 | MITRE: N/A | AI Verdict: N/A
+  Summary: INTERNAL LAN IP 198.51.100.155 SSH isolated due to security violations.
+  Details: Target 198.51.100.155 (INTERNAL) restricted for 1440 mins. Reason: Zero-Tolerance Honeypot Intercept on Decoy Port 5555
+---------------------------------------------------------------------------
+[2026-08-26 16:04:11] [CRITICAL] [MALICIOUS OPERATION] [HONEYPOT_TRAP] [HONEYPOT_PROBE_INTERCEPT]
+  Target: 198.51.100.155 | MITRE: N/A | AI Verdict: N/A
+  Summary: Malicious scanner 198.51.100.155 intercepted on deceptive honeypot trap.
+  Details: Malicious scanner 198.51.100.155 trapped on decoy port 5555. 24-Hour ban applied.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:11] [CRITICAL] [MALICIOUS OPERATION] [HONEYPOT_TRAP] [HONEYPOT_PROBE_INTERCEPT]
+  Target: 198.51.100.155 | MITRE: N/A | AI Verdict: N/A
+  Summary: Malicious scanner 198.51.100.155 intercepted on deceptive honeypot trap.
+  Details: Malicious scanner 198.51.100.155 trapped on decoy port 5555. 24-Hour ban applied.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:11] [CRITICAL] [MALICIOUS OPERATION] [HONEYPOT_TRAP] [HONEYPOT_PROBE_INTERCEPT]
+  Target: 198.51.100.179 | MITRE: N/A | AI Verdict: N/A
+  Summary: Malicious scanner 198.51.100.179 intercepted on deceptive honeypot trap.
+  Details: Malicious scanner 198.51.100.179 trapped on decoy port 6379. 24-Hour ban applied.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:11] [CRITICAL] [MALICIOUS OPERATION] [BAN_MANAGER] [INTERNAL_IP_BAN]
+  Target: 198.51.100.179 | MITRE: N/A | AI Verdict: N/A
+  Summary: INTERNAL LAN IP 198.51.100.179 SSH isolated due to security violations.
+  Details: Target 198.51.100.179 (INTERNAL) restricted for 1440 mins. Reason: Zero-Tolerance Honeypot Intercept on Decoy Port 6379
+---------------------------------------------------------------------------
+[2026-08-26 16:04:11] [CRITICAL] [MALICIOUS OPERATION] [HONEYPOT_TRAP] [HONEYPOT_PROBE_INTERCEPT]
+  Target: 198.51.100.179 | MITRE: N/A | AI Verdict: N/A
+  Summary: Malicious scanner 198.51.100.179 intercepted on deceptive honeypot trap.
+  Details: Malicious scanner 198.51.100.179 trapped on decoy port 6379. 24-Hour ban applied.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:11] [CRITICAL] [MALICIOUS OPERATION] [HONEYPOT_TRAP] [HONEYPOT_PROBE_INTERCEPT]
+  Target: 198.51.100.179 | MITRE: N/A | AI Verdict: N/A
+  Summary: Malicious scanner 198.51.100.179 intercepted on deceptive honeypot trap.
+  Details: Malicious scanner 198.51.100.179 trapped on decoy port 6379. 24-Hour ban applied.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:11] [CRITICAL] [MALICIOUS OPERATION] [FILE_INTEGRITY] [FILE_INTEGRITY_MODIFIED]
+  Target: test_fim_target_0.conf | MITRE: N/A | AI Verdict: N/A
+  Summary: Critical System File Integrity Breach detected on 'test_fim_target_0.conf'.
+  Details: Unauthorized mutation in 'test_fim_target_0.conf'! Injected: 1 lines, Deleted: 0 lines. Added: ['MALICIOUS_INJECTION=true'] | Removed: []
+---------------------------------------------------------------------------
+[2026-08-26 16:04:11] [CRITICAL] [MALICIOUS OPERATION] [FILE_INTEGRITY] [FILE_INTEGRITY_MODIFIED]
+  Target: test_fim_target_1.conf | MITRE: N/A | AI Verdict: N/A
+  Summary: Critical System File Integrity Breach detected on 'test_fim_target_1.conf'.
+  Details: Unauthorized mutation in 'test_fim_target_1.conf'! Injected: 1 lines, Deleted: 0 lines. Added: ['MALICIOUS_INJECTION=true'] | Removed: []
+---------------------------------------------------------------------------
+[2026-08-26 16:04:11] [CRITICAL] [MALICIOUS OPERATION] [FILE_INTEGRITY] [FILE_INTEGRITY_MODIFIED]
+  Target: test_fim_target_2.conf | MITRE: N/A | AI Verdict: N/A
+  Summary: Critical System File Integrity Breach detected on 'test_fim_target_2.conf'.
+  Details: Unauthorized mutation in 'test_fim_target_2.conf'! Injected: 1 lines, Deleted: 0 lines. Added: ['MALICIOUS_INJECTION=true'] | Removed: []
+---------------------------------------------------------------------------
+[2026-08-26 16:04:12] [CRITICAL] [MALICIOUS OPERATION] [FILE_INTEGRITY] [FILE_INTEGRITY_MODIFIED]
+  Target: test_fim_target_3.conf | MITRE: N/A | AI Verdict: N/A
+  Summary: Critical System File Integrity Breach detected on 'test_fim_target_3.conf'.
+  Details: Unauthorized mutation in 'test_fim_target_3.conf'! Injected: 1 lines, Deleted: 0 lines. Added: ['MALICIOUS_INJECTION=true'] | Removed: []
+---------------------------------------------------------------------------
+[2026-08-26 16:04:12] [CRITICAL] [MALICIOUS OPERATION] [FILE_INTEGRITY] [FILE_INTEGRITY_MODIFIED]
+  Target: test_fim_target_4.conf | MITRE: N/A | AI Verdict: N/A
+  Summary: Critical System File Integrity Breach detected on 'test_fim_target_4.conf'.
+  Details: Unauthorized mutation in 'test_fim_target_4.conf'! Injected: 1 lines, Deleted: 0 lines. Added: ['MALICIOUS_INJECTION=true'] | Removed: []
+---------------------------------------------------------------------------
+[2026-08-26 16:04:16] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:16] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:16] [INFO    ] [SAFE OPERATION] [BAN_MANAGER] [BAN_REMOVED]
+  Target: 198.51.100.122 | MITRE: N/A | AI Verdict: N/A
+  Summary: Network: [INTERNAL] | Target: 198.51.100.122 restriction lifted! Reason: Manual Admin Master Flush
+  Details: Network: [INTERNAL] | Target: 198.51.100.122 restriction lifted! Reason: Manual Admin Master Flush
+---------------------------------------------------------------------------
+[2026-08-26 16:04:16] [INFO    ] [SAFE OPERATION] [BAN_MANAGER] [BAN_REMOVED]
+  Target: 198.51.100.123 | MITRE: N/A | AI Verdict: N/A
+  Summary: Network: [INTERNAL] | Target: 198.51.100.123 restriction lifted! Reason: Manual Admin Master Flush
+  Details: Network: [INTERNAL] | Target: 198.51.100.123 restriction lifted! Reason: Manual Admin Master Flush
+---------------------------------------------------------------------------
+[2026-08-26 16:04:16] [INFO    ] [SAFE OPERATION] [BAN_MANAGER] [BAN_REMOVED]
+  Target: 198.51.100.155 | MITRE: N/A | AI Verdict: N/A
+  Summary: Network: [INTERNAL] | Target: 198.51.100.155 restriction lifted! Reason: Manual Admin Master Flush
+  Details: Network: [INTERNAL] | Target: 198.51.100.155 restriction lifted! Reason: Manual Admin Master Flush
+---------------------------------------------------------------------------
+[2026-08-26 16:04:16] [INFO    ] [SAFE OPERATION] [BAN_MANAGER] [BAN_REMOVED]
+  Target: 198.51.100.179 | MITRE: N/A | AI Verdict: N/A
+  Summary: Network: [INTERNAL] | Target: 198.51.100.179 restriction lifted! Reason: Manual Admin Master Flush
+  Details: Network: [INTERNAL] | Target: 198.51.100.179 restriction lifted! Reason: Manual Admin Master Flush
+---------------------------------------------------------------------------
+[2026-08-26 16:04:39] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:39] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:39] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:44] [CRITICAL] [MALICIOUS OPERATION] [SIEM] [CORRELATION_ALERT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Multi-Stage Attack Chain: Brute-Force Followed by Successful Compromise | Details: 4 failed login attempts followed by successful authentication.
+  Details: Multi-Stage Attack Chain: Brute-Force Followed by Successful Compromise | Details: 4 failed login attempts followed by successful authentication.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:44] [CRITICAL] [MALICIOUS OPERATION] [SIEM] [CORRELATION_ALERT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Multi-Stage Attack Chain: Full Cyber Kill Chain (Access -> Escalation -> C2/Execution) | Details: User logged in, executed privilege escalation, and initiated high-risk payload/C2 
+  Details: Multi-Stage Attack Chain: Full Cyber Kill Chain (Access -> Escalation -> C2/Execution) | Details: User logged in, executed privilege escalation, and initiated high-risk payload/C2 connection.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:44] [CRITICAL] [MALICIOUS OPERATION] [SIEM] [IMPOSSIBLE_TRAVEL]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Impossible Travel: User roaming_exec logged in from San Francisco, United States only 2.0 minutes after Singapore, Singapore (13582.1 km at 407462.9 km/h).
+  Details: Impossible Travel: User roaming_exec logged in from San Francisco, United States only 2.0 minutes after Singapore, Singapore (13582.1 km at 407462.9 km/h).
+---------------------------------------------------------------------------
+[2026-08-26 16:04:44] [CRITICAL] [MALICIOUS OPERATION] [SIEM] [IMPOSSIBLE_TRAVEL]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Impossible Travel: User roaming_exec logged in from London, United Kingdom only 2.0 minutes after San Francisco, United States (8616.4 km at 258492.9 km/h).
+  Details: Impossible Travel: User roaming_exec logged in from London, United Kingdom only 2.0 minutes after San Francisco, United States (8616.4 km at 258492.9 km/h).
+---------------------------------------------------------------------------
+[2026-08-26 16:04:44] [CRITICAL] [MALICIOUS OPERATION] [SIEM] [IMPOSSIBLE_TRAVEL]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Impossible Travel: User roaming_exec logged in from Frankfurt, Germany only 2.0 minutes after London, United Kingdom (637.8 km at 19133.0 km/h).
+  Details: Impossible Travel: User roaming_exec logged in from Frankfurt, Germany only 2.0 minutes after London, United Kingdom (637.8 km at 19133.0 km/h).
+---------------------------------------------------------------------------
+[2026-08-26 16:04:44] [CRITICAL] [MALICIOUS OPERATION] [SIEM] [IMPOSSIBLE_TRAVEL]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Impossible Travel: User roaming_exec logged in from Tokyo, Japan only 2.0 minutes after Frankfurt, Germany (9331.4 km at 279941.7 km/h).
+  Details: Impossible Travel: User roaming_exec logged in from Tokyo, Japan only 2.0 minutes after Frankfurt, Germany (9331.4 km at 279941.7 km/h).
+---------------------------------------------------------------------------
+[2026-08-26 16:04:44] [CRITICAL] [MALICIOUS OPERATION] [SIEM] [IMPOSSIBLE_TRAVEL]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Impossible Travel: User roaming_exec logged in from Sydney, Australia only 2.0 minutes after Tokyo, Japan (7825.8 km at 234774.6 km/h).
+  Details: Impossible Travel: User roaming_exec logged in from Sydney, Australia only 2.0 minutes after Tokyo, Japan (7825.8 km at 234774.6 km/h).
+---------------------------------------------------------------------------
+[2026-08-26 16:04:44] [CRITICAL] [MALICIOUS OPERATION] [SIEM] [IMPOSSIBLE_TRAVEL]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Impossible Travel: User roaming_exec logged in from New York, United States only 2.0 minutes after Sydney, Australia (15988.8 km at 479662.7 km/h).
+  Details: Impossible Travel: User roaming_exec logged in from New York, United States only 2.0 minutes after Sydney, Australia (15988.8 km at 479662.7 km/h).
+---------------------------------------------------------------------------
+[2026-08-26 16:04:44] [NOTICE  ] [SAFE OPERATION] [HONEYPOT_TRAP] [PORT_22_PROBE_TOLERATED]
+  Target: 198.51.100.122 | MITRE: N/A | AI Verdict: N/A
+  Summary: Port 22 connect attempt 1/2 from 198.51.100.122. Informative banner sent (No ban applied yet).
+  Details: Port 22 connect attempt 1/2 from 198.51.100.122. Informative banner sent (No ban applied yet).
+---------------------------------------------------------------------------
+[2026-08-26 16:04:44] [NOTICE  ] [SAFE OPERATION] [HONEYPOT_TRAP] [PORT_22_PROBE_TOLERATED]
+  Target: 198.51.100.122 | MITRE: N/A | AI Verdict: N/A
+  Summary: Port 22 connect attempt 2/2 from 198.51.100.122. Informative banner sent (No ban applied yet).
+  Details: Port 22 connect attempt 2/2 from 198.51.100.122. Informative banner sent (No ban applied yet).
+---------------------------------------------------------------------------
+[2026-08-26 16:04:44] [CRITICAL] [MALICIOUS OPERATION] [HONEYPOT_TRAP] [PORT_22_HONEYPOT_INTERCEPT]
+  Target: 198.51.100.122 | MITRE: N/A | AI Verdict: N/A
+  Summary: Malicious scanner 198.51.100.122 trapped on decoy port 22. 24-Hour ban applied.
+  Details: Malicious scanner 198.51.100.122 trapped on decoy port 22. 24-Hour ban applied.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:44] [CRITICAL] [MALICIOUS OPERATION] [BAN_MANAGER] [INTERNAL_IP_BAN]
+  Target: 198.51.100.122 | MITRE: N/A | AI Verdict: N/A
+  Summary: INTERNAL LAN IP 198.51.100.122 SSH isolated due to security violations.
+  Details: Target 198.51.100.122 (INTERNAL) restricted for 2880 mins. Reason: Zero-Tolerance SSH Decoy Trap on Port 22 (Real SSH Port: 2222)
+---------------------------------------------------------------------------
+[2026-08-26 16:04:44] [CRITICAL] [MALICIOUS OPERATION] [HONEYPOT_TRAP] [HONEYPOT_PROBE_INTERCEPT]
+  Target: 198.51.100.123 | MITRE: N/A | AI Verdict: N/A
+  Summary: Malicious scanner 198.51.100.123 intercepted on deceptive honeypot trap.
+  Details: Malicious scanner 198.51.100.123 trapped on decoy port 23. 24-Hour ban applied.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:44] [CRITICAL] [MALICIOUS OPERATION] [BAN_MANAGER] [INTERNAL_IP_BAN]
+  Target: 198.51.100.123 | MITRE: N/A | AI Verdict: N/A
+  Summary: INTERNAL LAN IP 198.51.100.123 SSH isolated due to security violations.
+  Details: Target 198.51.100.123 (INTERNAL) restricted for 2880 mins. Reason: Zero-Tolerance Honeypot Intercept on Decoy Port 23
+---------------------------------------------------------------------------
+[2026-08-26 16:04:44] [CRITICAL] [MALICIOUS OPERATION] [HONEYPOT_TRAP] [HONEYPOT_PROBE_INTERCEPT]
+  Target: 198.51.100.123 | MITRE: N/A | AI Verdict: N/A
+  Summary: Malicious scanner 198.51.100.123 intercepted on deceptive honeypot trap.
+  Details: Malicious scanner 198.51.100.123 trapped on decoy port 23. 24-Hour ban applied.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:44] [CRITICAL] [MALICIOUS OPERATION] [HONEYPOT_TRAP] [HONEYPOT_PROBE_INTERCEPT]
+  Target: 198.51.100.123 | MITRE: N/A | AI Verdict: N/A
+  Summary: Malicious scanner 198.51.100.123 intercepted on deceptive honeypot trap.
+  Details: Malicious scanner 198.51.100.123 trapped on decoy port 23. 24-Hour ban applied.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:44] [CRITICAL] [MALICIOUS OPERATION] [HONEYPOT_TRAP] [HONEYPOT_PROBE_INTERCEPT]
+  Target: 198.51.100.123 | MITRE: N/A | AI Verdict: N/A
+  Summary: Malicious scanner 198.51.100.123 intercepted on deceptive honeypot trap.
+  Details: Malicious scanner 198.51.100.123 trapped on decoy port 2323. 24-Hour ban applied.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:44] [CRITICAL] [MALICIOUS OPERATION] [HONEYPOT_TRAP] [HONEYPOT_PROBE_INTERCEPT]
+  Target: 198.51.100.123 | MITRE: N/A | AI Verdict: N/A
+  Summary: Malicious scanner 198.51.100.123 intercepted on deceptive honeypot trap.
+  Details: Malicious scanner 198.51.100.123 trapped on decoy port 2323. 24-Hour ban applied.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:44] [CRITICAL] [MALICIOUS OPERATION] [HONEYPOT_TRAP] [HONEYPOT_PROBE_INTERCEPT]
+  Target: 198.51.100.123 | MITRE: N/A | AI Verdict: N/A
+  Summary: Malicious scanner 198.51.100.123 intercepted on deceptive honeypot trap.
+  Details: Malicious scanner 198.51.100.123 trapped on decoy port 2323. 24-Hour ban applied.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:44] [CRITICAL] [MALICIOUS OPERATION] [HONEYPOT_TRAP] [HONEYPOT_PROBE_INTERCEPT]
+  Target: 198.51.100.155 | MITRE: N/A | AI Verdict: N/A
+  Summary: Malicious scanner 198.51.100.155 intercepted on deceptive honeypot trap.
+  Details: Malicious scanner 198.51.100.155 trapped on decoy port 5555. 24-Hour ban applied.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:44] [CRITICAL] [MALICIOUS OPERATION] [BAN_MANAGER] [INTERNAL_IP_BAN]
+  Target: 198.51.100.155 | MITRE: N/A | AI Verdict: N/A
+  Summary: INTERNAL LAN IP 198.51.100.155 SSH isolated due to security violations.
+  Details: Target 198.51.100.155 (INTERNAL) restricted for 2880 mins. Reason: Zero-Tolerance Honeypot Intercept on Decoy Port 5555
+---------------------------------------------------------------------------
+[2026-08-26 16:04:44] [CRITICAL] [MALICIOUS OPERATION] [HONEYPOT_TRAP] [HONEYPOT_PROBE_INTERCEPT]
+  Target: 198.51.100.155 | MITRE: N/A | AI Verdict: N/A
+  Summary: Malicious scanner 198.51.100.155 intercepted on deceptive honeypot trap.
+  Details: Malicious scanner 198.51.100.155 trapped on decoy port 5555. 24-Hour ban applied.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:44] [CRITICAL] [MALICIOUS OPERATION] [HONEYPOT_TRAP] [HONEYPOT_PROBE_INTERCEPT]
+  Target: 198.51.100.155 | MITRE: N/A | AI Verdict: N/A
+  Summary: Malicious scanner 198.51.100.155 intercepted on deceptive honeypot trap.
+  Details: Malicious scanner 198.51.100.155 trapped on decoy port 5555. 24-Hour ban applied.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:44] [CRITICAL] [MALICIOUS OPERATION] [HONEYPOT_TRAP] [HONEYPOT_PROBE_INTERCEPT]
+  Target: 198.51.100.179 | MITRE: N/A | AI Verdict: N/A
+  Summary: Malicious scanner 198.51.100.179 intercepted on deceptive honeypot trap.
+  Details: Malicious scanner 198.51.100.179 trapped on decoy port 6379. 24-Hour ban applied.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:44] [CRITICAL] [MALICIOUS OPERATION] [BAN_MANAGER] [INTERNAL_IP_BAN]
+  Target: 198.51.100.179 | MITRE: N/A | AI Verdict: N/A
+  Summary: INTERNAL LAN IP 198.51.100.179 SSH isolated due to security violations.
+  Details: Target 198.51.100.179 (INTERNAL) restricted for 2880 mins. Reason: Zero-Tolerance Honeypot Intercept on Decoy Port 6379
+---------------------------------------------------------------------------
+[2026-08-26 16:04:44] [CRITICAL] [MALICIOUS OPERATION] [HONEYPOT_TRAP] [HONEYPOT_PROBE_INTERCEPT]
+  Target: 198.51.100.179 | MITRE: N/A | AI Verdict: N/A
+  Summary: Malicious scanner 198.51.100.179 intercepted on deceptive honeypot trap.
+  Details: Malicious scanner 198.51.100.179 trapped on decoy port 6379. 24-Hour ban applied.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:44] [CRITICAL] [MALICIOUS OPERATION] [HONEYPOT_TRAP] [HONEYPOT_PROBE_INTERCEPT]
+  Target: 198.51.100.179 | MITRE: N/A | AI Verdict: N/A
+  Summary: Malicious scanner 198.51.100.179 intercepted on deceptive honeypot trap.
+  Details: Malicious scanner 198.51.100.179 trapped on decoy port 6379. 24-Hour ban applied.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:44] [CRITICAL] [MALICIOUS OPERATION] [FILE_INTEGRITY] [FILE_INTEGRITY_MODIFIED]
+  Target: test_fim_target_0.conf | MITRE: N/A | AI Verdict: N/A
+  Summary: Critical System File Integrity Breach detected on 'test_fim_target_0.conf'.
+  Details: Unauthorized mutation in 'test_fim_target_0.conf'! Injected: 1 lines, Deleted: 0 lines. Added: ['MALICIOUS_INJECTION=true'] | Removed: []
+---------------------------------------------------------------------------
+[2026-08-26 16:04:44] [CRITICAL] [MALICIOUS OPERATION] [FILE_INTEGRITY] [FILE_INTEGRITY_MODIFIED]
+  Target: test_fim_target_1.conf | MITRE: N/A | AI Verdict: N/A
+  Summary: Critical System File Integrity Breach detected on 'test_fim_target_1.conf'.
+  Details: Unauthorized mutation in 'test_fim_target_1.conf'! Injected: 1 lines, Deleted: 0 lines. Added: ['MALICIOUS_INJECTION=true'] | Removed: []
+---------------------------------------------------------------------------
+[2026-08-26 16:04:44] [CRITICAL] [MALICIOUS OPERATION] [FILE_INTEGRITY] [FILE_INTEGRITY_MODIFIED]
+  Target: test_fim_target_2.conf | MITRE: N/A | AI Verdict: N/A
+  Summary: Critical System File Integrity Breach detected on 'test_fim_target_2.conf'.
+  Details: Unauthorized mutation in 'test_fim_target_2.conf'! Injected: 1 lines, Deleted: 0 lines. Added: ['MALICIOUS_INJECTION=true'] | Removed: []
+---------------------------------------------------------------------------
+[2026-08-26 16:04:44] [CRITICAL] [MALICIOUS OPERATION] [FILE_INTEGRITY] [FILE_INTEGRITY_MODIFIED]
+  Target: test_fim_target_3.conf | MITRE: N/A | AI Verdict: N/A
+  Summary: Critical System File Integrity Breach detected on 'test_fim_target_3.conf'.
+  Details: Unauthorized mutation in 'test_fim_target_3.conf'! Injected: 1 lines, Deleted: 0 lines. Added: ['MALICIOUS_INJECTION=true'] | Removed: []
+---------------------------------------------------------------------------
+[2026-08-26 16:04:44] [CRITICAL] [MALICIOUS OPERATION] [FILE_INTEGRITY] [FILE_INTEGRITY_MODIFIED]
+  Target: test_fim_target_4.conf | MITRE: N/A | AI Verdict: N/A
+  Summary: Critical System File Integrity Breach detected on 'test_fim_target_4.conf'.
+  Details: Unauthorized mutation in 'test_fim_target_4.conf'! Injected: 1 lines, Deleted: 0 lines. Added: ['MALICIOUS_INJECTION=true'] | Removed: []
+---------------------------------------------------------------------------
+[2026-08-26 16:04:48] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:48] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 16:04:48] [INFO    ] [SAFE OPERATION] [BAN_MANAGER] [BAN_REMOVED]
+  Target: 198.51.100.122 | MITRE: N/A | AI Verdict: N/A
+  Summary: Network: [INTERNAL] | Target: 198.51.100.122 restriction lifted! Reason: Manual Admin Master Flush
+  Details: Network: [INTERNAL] | Target: 198.51.100.122 restriction lifted! Reason: Manual Admin Master Flush
+---------------------------------------------------------------------------
+[2026-08-26 16:04:48] [INFO    ] [SAFE OPERATION] [BAN_MANAGER] [BAN_REMOVED]
+  Target: 198.51.100.123 | MITRE: N/A | AI Verdict: N/A
+  Summary: Network: [INTERNAL] | Target: 198.51.100.123 restriction lifted! Reason: Manual Admin Master Flush
+  Details: Network: [INTERNAL] | Target: 198.51.100.123 restriction lifted! Reason: Manual Admin Master Flush
+---------------------------------------------------------------------------
+[2026-08-26 16:04:48] [INFO    ] [SAFE OPERATION] [BAN_MANAGER] [BAN_REMOVED]
+  Target: 198.51.100.155 | MITRE: N/A | AI Verdict: N/A
+  Summary: Network: [INTERNAL] | Target: 198.51.100.155 restriction lifted! Reason: Manual Admin Master Flush
+  Details: Network: [INTERNAL] | Target: 198.51.100.155 restriction lifted! Reason: Manual Admin Master Flush
+---------------------------------------------------------------------------
+[2026-08-26 16:04:48] [INFO    ] [SAFE OPERATION] [BAN_MANAGER] [BAN_REMOVED]
+  Target: 198.51.100.179 | MITRE: N/A | AI Verdict: N/A
+  Summary: Network: [INTERNAL] | Target: 198.51.100.179 restriction lifted! Reason: Manual Admin Master Flush
+  Details: Network: [INTERNAL] | Target: 198.51.100.179 restriction lifted! Reason: Manual Admin Master Flush
+---------------------------------------------------------------------------
+[2026-08-26 16:05:05] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 16:05:05] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 16:05:05] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 16:06:49] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 16:06:49] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 16:06:49] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 16:06:49] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 16:06:49] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 16:06:49] [WARNING ] [SUSPICIOUS / WARNING] [PBAC_ENFORCER] [PERMISSION_VIOLATION]
+  Target: perm_test_audit_user | MITRE: N/A | AI Verdict: N/A
+  Summary: User 'perm_test_audit_user' attempted 'rm -rf /var/www/production' lacking permissions: ['WRITE']
+  Details: User 'perm_test_audit_user' attempted 'rm -rf /var/www/production' lacking permissions: ['WRITE']
+---------------------------------------------------------------------------
+[2026-08-26 16:07:08] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 16:07:08] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 16:07:08] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 16:07:08] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 16:07:08] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 16:07:13] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 16:07:13] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 16:07:13] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 16:07:23] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 16:07:23] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 16:07:23] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 16:07:23] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 16:07:23] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 16:07:37] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 16:07:37] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 16:07:37] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 16:07:37] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 16:07:37] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 16:13:07] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 16:13:07] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 16:13:07] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 16:13:08] [NOTICE  ] [SAFE OPERATION] [HONEYPOT_TRAP] [PORT_22_PROBE_TOLERATED]
+  Target: 203.0.113.88 | MITRE: N/A | AI Verdict: N/A
+  Summary: Port 22 connect attempt 1/2 from 203.0.113.88. Informative banner sent (No ban applied yet).
+  Details: Port 22 connect attempt 1/2 from 203.0.113.88. Informative banner sent (No ban applied yet).
+---------------------------------------------------------------------------
+[2026-08-26 16:13:08] [NOTICE  ] [SAFE OPERATION] [HONEYPOT_TRAP] [PORT_22_PROBE_TOLERATED]
+  Target: 203.0.113.88 | MITRE: N/A | AI Verdict: N/A
+  Summary: Port 22 connect attempt 2/2 from 203.0.113.88. Informative banner sent (No ban applied yet).
+  Details: Port 22 connect attempt 2/2 from 203.0.113.88. Informative banner sent (No ban applied yet).
+---------------------------------------------------------------------------
+[2026-08-26 16:13:08] [CRITICAL] [MALICIOUS OPERATION] [HONEYPOT_TRAP] [PORT_22_HONEYPOT_INTERCEPT]
+  Target: 203.0.113.88 | MITRE: N/A | AI Verdict: N/A
+  Summary: Malicious scanner 203.0.113.88 trapped on decoy port 22. 24-Hour ban applied.
+  Details: Malicious scanner 203.0.113.88 trapped on decoy port 22. 24-Hour ban applied.
+---------------------------------------------------------------------------
+[2026-08-26 16:13:08] [CRITICAL] [MALICIOUS OPERATION] [BAN_MANAGER] [INTERNAL_IP_BAN]
+  Target: 203.0.113.88 | MITRE: N/A | AI Verdict: N/A
+  Summary: INTERNAL LAN IP 203.0.113.88 SSH isolated due to security violations.
+  Details: Target 203.0.113.88 (INTERNAL) restricted for 5760 mins. Reason: Zero-Tolerance SSH Decoy Trap on Port 22 (Real SSH Port: 2222)
+---------------------------------------------------------------------------
+[2026-08-26 16:13:18] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 16:13:18] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 16:13:18] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 16:13:30] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 16:13:30] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 16:13:30] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 16:13:31] [NOTICE  ] [SAFE OPERATION] [HONEYPOT_TRAP] [PORT_22_PROBE_TOLERATED]
+  Target: 203.0.113.88 | MITRE: N/A | AI Verdict: N/A
+  Summary: Port 22 connect attempt 1/2 from 203.0.113.88. Informative banner sent (No ban applied yet).
+  Details: Port 22 connect attempt 1/2 from 203.0.113.88. Informative banner sent (No ban applied yet).
+---------------------------------------------------------------------------
+[2026-08-26 16:13:31] [NOTICE  ] [SAFE OPERATION] [HONEYPOT_TRAP] [PORT_22_PROBE_TOLERATED]
+  Target: 203.0.113.88 | MITRE: N/A | AI Verdict: N/A
+  Summary: Port 22 connect attempt 2/2 from 203.0.113.88. Informative banner sent (No ban applied yet).
+  Details: Port 22 connect attempt 2/2 from 203.0.113.88. Informative banner sent (No ban applied yet).
+---------------------------------------------------------------------------
+[2026-08-26 16:13:31] [CRITICAL] [MALICIOUS OPERATION] [HONEYPOT_TRAP] [PORT_22_HONEYPOT_INTERCEPT]
+  Target: 203.0.113.88 | MITRE: N/A | AI Verdict: N/A
+  Summary: Malicious scanner 203.0.113.88 trapped on decoy port 22. 24-Hour ban applied.
+  Details: Malicious scanner 203.0.113.88 trapped on decoy port 22. 24-Hour ban applied.
+---------------------------------------------------------------------------
+[2026-08-26 16:13:38] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-26 16:13:38] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-26 16:13:38] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-26 16:13:38] [INFO    ] [SAFE OPERATION] [BAN_MANAGER] [BAN_REMOVED]
+  Target: 203.0.113.88 | MITRE: N/A | AI Verdict: N/A
+  Summary: Network: [INTERNAL] | Target: 203.0.113.88 restriction lifted! Reason: Manual Admin Master Flush
+  Details: Network: [INTERNAL] | Target: 203.0.113.88 restriction lifted! Reason: Manual Admin Master Flush
+---------------------------------------------------------------------------
+[2026-08-27 10:55:56] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-27 10:55:56] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-27 10:55:56] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-27 10:56:14] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-27 10:56:14] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-27 10:56:14] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-27 10:56:23] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-27 10:56:23] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-27 10:56:23] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-27 10:56:27] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-27 10:56:27] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-27 10:56:27] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-27 10:56:53] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-27 10:56:53] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-27 10:56:53] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-27 10:56:57] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-27 10:56:57] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-27 10:56:57] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-27 10:57:02] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-27 10:57:02] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-27 10:57:02] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------
+[2026-08-27 10:57:10] [INFO    ] [SAFE OPERATION] [SIEM] [CTI_LOADED]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 IPs, 4 domains from CTI database.
+  Details: Loaded 5 IPs, 4 domains from CTI database.
+---------------------------------------------------------------------------
+[2026-08-27 10:57:10] [INFO    ] [SAFE OPERATION] [SIEM] [SIGMA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: Loaded 5 Sigma detection rules.
+  Details: Loaded 5 Sigma detection rules.
+---------------------------------------------------------------------------
+[2026-08-27 10:57:10] [INFO    ] [SAFE OPERATION] [SIEM] [YARA_INIT]
+  Target: LOCAL | MITRE: N/A | AI Verdict: N/A
+  Summary: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+  Details: yara-python not installed; Pure-Python Binary Opcode Scanner active.
+---------------------------------------------------------------------------

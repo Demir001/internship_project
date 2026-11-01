@@ -1,0 +1,19 @@
+{
+  "is_enabled": false,
+  "reason": "Core Database Upgrade",
+  "start_time": null,
+  "allowed_users": [
+    "admin",
+    "dba_lead",
+    "devops",
+    "devops_lead",
+    "lead_admin",
+    "legen",
+    "root"
+  ],
+  "allowed_roles": [
+    "ADMIN",
+    "DEVOPS"
+  ],
+  "updated_at": "Wed Aug 26 16:07:37 2026"
+}
