@@ -21,7 +21,7 @@ The **Autonomous Enterprise SIEM & Cyber Defense Platform** is a production-grad
 
 Unlike mainstream enterprise security agents that introduce gigabytes of third-party deep learning frameworks (e.g., PyTorch, TensorFlow, CUDA runtimes) and high memory overhead, this platform is built around **pure vectorized NumPy mathematics and lightweight Joblib serialization**. It delivers sub-millisecond decision latency, real-time native Linux log ingestion, out-of-band hardware telemetry monitoring, deceptive honeypot trapping, an atomic 32-state Policy-Based Access Control (PBAC) engine, and tamper-proof WORM blockchain log sealing.
 
-> 🎓 **Academic & Industrial Background:** Developed during the **ISE 399 Summer Practice** at **ISSD Bilişim Elektronik A.Ş.** (METU Technopark, Ankara) by **Demir Özdemir** (Student ID: 24243610024) within the Department of Information Systems Engineering, Atılım University.
+> 🎓 **Academic & Industrial Background:** Developed during the **ISE 399 Summer Practice** at **ISSD Bilişim Elektronik A.Ş.** (METU Technopark, Ankara) by **Demir Özdemir** within the Department of Information Systems Engineering, Atılım University.
 
 ---
 
@@ -38,7 +38,6 @@ Unlike mainstream enterprise security agents that introduce gigabytes of third-p
   - [6. File Integrity Monitoring (FIM)](#6-file-integrity-monitoring-fim)
   - [7. Forward-Secure WORM Cryptographic Blockchain](#7-forward-secure-worm-cryptographic-blockchain)
   - [8. Multi-Node Virtual Mesh Network Simulator](#8-multi-node-virtual-mesh-network-simulator)
-- [Project Directory Structure](#-project-directory-structure)
 - [Installation & Quick Start](#-installation--quick-start)
   - [Automated Deployment (`setup.sh`)](#automated-deployment-setupsh)
   - [Manual Installation](#manual-installation)
@@ -199,66 +198,6 @@ Built directly into the platform (`modules/virtual_mesh_simulator.py`), this too
 
 ---
 
-## 📁 Project Directory Structure
-
-```text
-/
-├── config.py                         # Centralized configuration (thresholds, paths, SMTP, ports)
-├── main.py                           # Core daemon orchestrator (spawns 24 micro-engines)
-├── main_warning_only.py              # Non-blocking simulation / warning-only mode daemon
-├── manage.py                         # Unified administrative CLI interface
-├── requirements.txt                  # Python dependencies (NumPy, Scikit-learn, psutil, etc.)
-├── setup.sh                          # Automated single-command Linux environment setup script
-├── reset.sh                          # Development state reset & log clearing script
-├── simulate_test.py                  # Standalone quick security validation runner
-├── models/                           # Serialized Joblib machine learning models
-│   ├── numpy_autoencoder/
-│   │   └── autoencoder.joblib        # Pure-NumPy zero-day neural reconstruction autoencoder
-│   └── numpy_ensemble/
-│       ├── model_1.joblib            # Command payload classifier (Model 1)
-│       ├── model_2.joblib            # Command payload classifier (Model 2)
-│       ├── model_3.joblib            # Command payload classifier (Model 3)
-│       └── model_4.joblib            # Command payload classifier (Model 4)
-├── core/                             # Core framework abstractions and interfaces
-├── data/                             # Persistent runtime databases & JSON states
-│   ├── activity_logs.db              # High-throughput SQLite WAL event database
-│   ├── banned_ips.json               # Active firewall blacklist registry
-│   ├── user_permissions.json         # Granular PBAC user bitmasks
-│   ├── rbac_roles.json               # RBAC role mappings
-│   └── maintenance_state.json        # Maintenance window bypass state
-├── defense/                          # Active mitigation & response engines
-│   ├── alert.py                      # SMTP & syslog alerting
-│   ├── ban_manager.py                # Netfilter / iptables firewall manager
-│   ├── honeypot_trap.py              # Port 22 deceptive SSH trap listener
-│   ├── host_containment.py           # Zero-Trust emergency network isolation
-│   └── subnet_shield.py              # Subnet /24 CIDR botnet protector
-├── detection/                        # Multi-layer detection & inference modules
-│   ├── ai_security_engine.py         # 6-layer pure-NumPy AI inference engine
-│   ├── c2_detector.py                # Reverse shell & C2 beacon detector
-│   ├── canonicalizer.py              # URL/Hex/Quote unmasker & normalizer
-│   ├── dga_detector.py               # Shannon entropy DGA classifier
-│   ├── file_integrity_monitor.py     # SHA-256 FIM baseline & diff engine
-│   ├── memory_threat_hunter.py       # Linux /proc process & memory scanner
-│   ├── resource_abuse_guard.py       # High CPU/RAM abuse & cryptominer detector
-│   └── sigma_engine.py               # YAML-based generic Sigma rule evaluator
-├── ingestion/                        # Multi-channel log ingestion drivers
-│   ├── log_monitor.py                # Asynchronous native /var/log tailer
-│   ├── rest_ingest_api.py            # HTTP REST endpoint (Port 8080)
-│   └── syslog_server.py              # UDP 514 syslog listener
-├── modules/                          # Extended functionality modules
-│   ├── permission_manager.py         # 32-state PBAC engine & AST classifier
-│   ├── user_session_tracker.py       # Dynamic TTY tracker & auto-kick
-│   ├── virtual_mesh_simulator.py     # 6-node virtual enterprise mesh simulator
-│   └── smart_logger.py               # WORM HMAC-SHA256 blockchain logger
-└── tests/                            # Comprehensive automated testing suites
-    ├── test_deep_wide_enterprise_stress.py      # 12-domain 3,000-stage stress test
-    ├── test_exhaustive_user_permissions_matrix.py # 32-state PBAC mathematical matrix test
-    ├── test_master_realistic_simulation.py       # 10-layer realistic cyber attack test
-    └── test_virtual_mesh_simulation.py          # Automated mesh simulation test
-```
-
----
-
 ## 🚀 Installation & Quick Start
 
 ### Automated Deployment (`setup.sh`)
@@ -267,8 +206,8 @@ The platform includes an enterprise-grade Bash installer that automatically chec
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/demirozdemir/autonomous-siem-defense.git
-cd autonomous-siem-defense
+git clone https://github.com/Demir001/internship_project.git
+cd internship_project
 
 # 2. Run automated setup as root
 sudo bash setup.sh
@@ -474,10 +413,10 @@ python tests/test_virtual_mesh_simulation.py
 ## 👨‍💻 Author & Acknowledgments
 
 - **Author:** Demir Özdemir
-- **Student ID:** 24243610024
 - **Program:** Department of Information Systems Engineering, Atılım University
 - **Internship Period:** August 3, 2026 – August 28, 2026
 - **Host Institution:** [ISSD Bilişim Elektronik A.Ş.](https://www.issd.com.tr/) (METU Technopark, Ankara, Türkiye)
+- **GitHub Repository:** [Demir001/internship_project](https://github.com/Demir001/internship_project)
 
 Special thanks to the engineering leaders, mentors, and cybersecurity professionals at **ISSD Bilişim Elektronik A.Ş.** for their technical guidance, mentorship, and support throughout the development of this platform.
 
